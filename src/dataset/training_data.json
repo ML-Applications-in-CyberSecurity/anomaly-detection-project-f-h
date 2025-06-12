@@ -1,0 +1,7002 @@
+[
+  {
+    "src_port": 8080,
+    "dst_port": 31932,
+    "packet_size": 824,
+    "duration_ms": 270,
+    "protocol": "TCP"
+  },
+  {
+    "src_port": 22,
+    "dst_port": 31406,
+    "packet_size": 830,
+    "duration_ms": 346,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 80,
+    "dst_port": 15664,
+    "packet_size": 281,
+    "duration_ms": 205,
+    "protocol": "TCP"
+  },
+  {
+    "src_port": 80,
+    "dst_port": 39497,
+    "packet_size": 200,
+    "duration_ms": 181,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 443,
+    "dst_port": 55310,
+    "packet_size": 636,
+    "duration_ms": 57,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 443,
+    "dst_port": 54970,
+    "packet_size": 402,
+    "duration_ms": 367,
+    "protocol": "TCP"
+  },
+  {
+    "src_port": 8080,
+    "dst_port": 32195,
+    "packet_size": 1198,
+    "duration_ms": 368,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 22,
+    "dst_port": 7007,
+    "packet_size": 1136,
+    "duration_ms": 138,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 443,
+    "dst_port": 29346,
+    "packet_size": 376,
+    "duration_ms": 421,
+    "protocol": "TCP"
+  },
+  {
+    "src_port": 22,
+    "dst_port": 20483,
+    "packet_size": 635,
+    "duration_ms": 430,
+    "protocol": "TCP"
+  },
+  {
+    "src_port": 22,
+    "dst_port": 39262,
+    "packet_size": 1245,
+    "duration_ms": 437,
+    "protocol": "TCP"
+  },
+  {
+    "src_port": 80,
+    "dst_port": 27755,
+    "packet_size": 291,
+    "duration_ms": 241,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 8080,
+    "dst_port": 51729,
+    "packet_size": 466,
+    "duration_ms": 443,
+    "protocol": "TCP"
+  },
+  {
+    "src_port": 22,
+    "dst_port": 55836,
+    "packet_size": 555,
+    "duration_ms": 118,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 80,
+    "dst_port": 62108,
+    "packet_size": 1050,
+    "duration_ms": 483,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 9999,
+    "dst_port": 142,
+    "packet_size": 5000,
+    "duration_ms": 1090,
+    "protocol": "TCP"
+  },
+  {
+    "src_port": 8080,
+    "dst_port": 1942,
+    "packet_size": 169,
+    "duration_ms": 271,
+    "protocol": "TCP"
+  },
+  {
+    "src_port": 443,
+    "dst_port": 9591,
+    "packet_size": 1229,
+    "duration_ms": 433,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 443,
+    "dst_port": 25886,
+    "packet_size": 643,
+    "duration_ms": 339,
+    "protocol": "TCP"
+  },
+  {
+    "src_port": 443,
+    "dst_port": 21491,
+    "packet_size": 238,
+    "duration_ms": 376,
+    "protocol": "TCP"
+  },
+  {
+    "src_port": 9999,
+    "dst_port": 511,
+    "packet_size": 0,
+    "duration_ms": 2025,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 8080,
+    "dst_port": 26913,
+    "packet_size": 144,
+    "duration_ms": 125,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 22,
+    "dst_port": 2511,
+    "packet_size": 1163,
+    "duration_ms": 458,
+    "protocol": "TCP"
+  },
+  {
+    "src_port": 8080,
+    "dst_port": 19062,
+    "packet_size": 604,
+    "duration_ms": 52,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 8080,
+    "dst_port": 4411,
+    "packet_size": 636,
+    "duration_ms": 407,
+    "protocol": "TCP"
+  },
+  {
+    "src_port": 80,
+    "dst_port": 58765,
+    "packet_size": 601,
+    "duration_ms": 205,
+    "protocol": "TCP"
+  },
+  {
+    "src_port": 8080,
+    "dst_port": 26983,
+    "packet_size": 609,
+    "duration_ms": 347,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 80,
+    "dst_port": 57935,
+    "packet_size": 410,
+    "duration_ms": 156,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 22,
+    "dst_port": 55882,
+    "packet_size": 764,
+    "duration_ms": 378,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 80,
+    "dst_port": 16224,
+    "packet_size": 1461,
+    "duration_ms": 248,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 8080,
+    "dst_port": 53595,
+    "packet_size": 486,
+    "duration_ms": 236,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 8080,
+    "dst_port": 56692,
+    "packet_size": 319,
+    "duration_ms": 332,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 22,
+    "dst_port": 14840,
+    "packet_size": 380,
+    "duration_ms": 120,
+    "protocol": "TCP"
+  },
+  {
+    "src_port": 443,
+    "dst_port": 46614,
+    "packet_size": 596,
+    "duration_ms": 111,
+    "protocol": "TCP"
+  },
+  {
+    "src_port": 8080,
+    "dst_port": 56374,
+    "packet_size": 1093,
+    "duration_ms": 452,
+    "protocol": "TCP"
+  },
+  {
+    "src_port": 22,
+    "dst_port": 25209,
+    "packet_size": 457,
+    "duration_ms": 326,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 22,
+    "dst_port": 53887,
+    "packet_size": 447,
+    "duration_ms": 290,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 80,
+    "dst_port": 38306,
+    "packet_size": 604,
+    "duration_ms": 398,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 8080,
+    "dst_port": 28977,
+    "packet_size": 562,
+    "duration_ms": 228,
+    "protocol": "TCP"
+  },
+  {
+    "src_port": 1337,
+    "dst_port": 970,
+    "packet_size": 10,
+    "duration_ms": 4434,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 443,
+    "dst_port": 40494,
+    "packet_size": 113,
+    "duration_ms": 157,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 443,
+    "dst_port": 25498,
+    "packet_size": 1321,
+    "duration_ms": 470,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 9999,
+    "dst_port": 489,
+    "packet_size": 5000,
+    "duration_ms": 2104,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 22,
+    "dst_port": 26726,
+    "packet_size": 279,
+    "duration_ms": 479,
+    "protocol": "TCP"
+  },
+  {
+    "src_port": 8080,
+    "dst_port": 58044,
+    "packet_size": 649,
+    "duration_ms": 266,
+    "protocol": "TCP"
+  },
+  {
+    "src_port": 80,
+    "dst_port": 9540,
+    "packet_size": 862,
+    "duration_ms": 74,
+    "protocol": "TCP"
+  },
+  {
+    "src_port": 80,
+    "dst_port": 49991,
+    "packet_size": 705,
+    "duration_ms": 250,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 443,
+    "dst_port": 12721,
+    "packet_size": 1341,
+    "duration_ms": 286,
+    "protocol": "TCP"
+  },
+  {
+    "src_port": 80,
+    "dst_port": 61581,
+    "packet_size": 1463,
+    "duration_ms": 274,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 22,
+    "dst_port": 42857,
+    "packet_size": 983,
+    "duration_ms": 98,
+    "protocol": "TCP"
+  },
+  {
+    "src_port": 22,
+    "dst_port": 23671,
+    "packet_size": 373,
+    "duration_ms": 57,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 443,
+    "dst_port": 16382,
+    "packet_size": 264,
+    "duration_ms": 445,
+    "protocol": "TCP"
+  },
+  {
+    "src_port": 443,
+    "dst_port": 55907,
+    "packet_size": 353,
+    "duration_ms": 461,
+    "protocol": "TCP"
+  },
+  {
+    "src_port": 443,
+    "dst_port": 59940,
+    "packet_size": 409,
+    "duration_ms": 416,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 8080,
+    "dst_port": 32266,
+    "packet_size": 1241,
+    "duration_ms": 142,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 22,
+    "dst_port": 6297,
+    "packet_size": 777,
+    "duration_ms": 295,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 22,
+    "dst_port": 9410,
+    "packet_size": 1279,
+    "duration_ms": 233,
+    "protocol": "TCP"
+  },
+  {
+    "src_port": 443,
+    "dst_port": 1321,
+    "packet_size": 1186,
+    "duration_ms": 87,
+    "protocol": "TCP"
+  },
+  {
+    "src_port": 22,
+    "dst_port": 58220,
+    "packet_size": 818,
+    "duration_ms": 191,
+    "protocol": "TCP"
+  },
+  {
+    "src_port": 443,
+    "dst_port": 6932,
+    "packet_size": 780,
+    "duration_ms": 112,
+    "protocol": "TCP"
+  },
+  {
+    "src_port": 443,
+    "dst_port": 49332,
+    "packet_size": 965,
+    "duration_ms": 105,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 80,
+    "dst_port": 26133,
+    "packet_size": 815,
+    "duration_ms": 261,
+    "protocol": "TCP"
+  },
+  {
+    "src_port": 8080,
+    "dst_port": 5460,
+    "packet_size": 691,
+    "duration_ms": 397,
+    "protocol": "TCP"
+  },
+  {
+    "src_port": 22,
+    "dst_port": 30516,
+    "packet_size": 1112,
+    "duration_ms": 295,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 443,
+    "dst_port": 20522,
+    "packet_size": 826,
+    "duration_ms": 195,
+    "protocol": "TCP"
+  },
+  {
+    "src_port": 8080,
+    "dst_port": 6268,
+    "packet_size": 1073,
+    "duration_ms": 162,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 8080,
+    "dst_port": 17369,
+    "packet_size": 1301,
+    "duration_ms": 133,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 22,
+    "dst_port": 57471,
+    "packet_size": 203,
+    "duration_ms": 90,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 6666,
+    "dst_port": 605,
+    "packet_size": 5000,
+    "duration_ms": 1195,
+    "protocol": "TCP"
+  },
+  {
+    "src_port": 22,
+    "dst_port": 31154,
+    "packet_size": 218,
+    "duration_ms": 448,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 1337,
+    "dst_port": 519,
+    "packet_size": 5000,
+    "duration_ms": 2991,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 80,
+    "dst_port": 18454,
+    "packet_size": 604,
+    "duration_ms": 297,
+    "protocol": "TCP"
+  },
+  {
+    "src_port": 443,
+    "dst_port": 20320,
+    "packet_size": 802,
+    "duration_ms": 157,
+    "protocol": "TCP"
+  },
+  {
+    "src_port": 8080,
+    "dst_port": 45428,
+    "packet_size": 411,
+    "duration_ms": 241,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 443,
+    "dst_port": 10189,
+    "packet_size": 874,
+    "duration_ms": 213,
+    "protocol": "TCP"
+  },
+  {
+    "src_port": 8080,
+    "dst_port": 41533,
+    "packet_size": 514,
+    "duration_ms": 466,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 8080,
+    "dst_port": 19838,
+    "packet_size": 1098,
+    "duration_ms": 112,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 1337,
+    "dst_port": 859,
+    "packet_size": 5000,
+    "duration_ms": 2687,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 1337,
+    "dst_port": 42,
+    "packet_size": 0,
+    "duration_ms": 3032,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 443,
+    "dst_port": 38347,
+    "packet_size": 1263,
+    "duration_ms": 419,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 80,
+    "dst_port": 17263,
+    "packet_size": 492,
+    "duration_ms": 160,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 80,
+    "dst_port": 25718,
+    "packet_size": 1417,
+    "duration_ms": 315,
+    "protocol": "TCP"
+  },
+  {
+    "src_port": 80,
+    "dst_port": 57184,
+    "packet_size": 876,
+    "duration_ms": 238,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 80,
+    "dst_port": 26499,
+    "packet_size": 973,
+    "duration_ms": 356,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 443,
+    "dst_port": 22742,
+    "packet_size": 1188,
+    "duration_ms": 92,
+    "protocol": "TCP"
+  },
+  {
+    "src_port": 22,
+    "dst_port": 5260,
+    "packet_size": 434,
+    "duration_ms": 240,
+    "protocol": "TCP"
+  },
+  {
+    "src_port": 8080,
+    "dst_port": 26210,
+    "packet_size": 1321,
+    "duration_ms": 363,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 1337,
+    "dst_port": 652,
+    "packet_size": 5000,
+    "duration_ms": 4258,
+    "protocol": "TCP"
+  },
+  {
+    "src_port": 80,
+    "dst_port": 30268,
+    "packet_size": 1261,
+    "duration_ms": 444,
+    "protocol": "TCP"
+  },
+  {
+    "src_port": 1337,
+    "dst_port": 530,
+    "packet_size": 5000,
+    "duration_ms": 4851,
+    "protocol": "TCP"
+  },
+  {
+    "src_port": 443,
+    "dst_port": 27589,
+    "packet_size": 1402,
+    "duration_ms": 428,
+    "protocol": "TCP"
+  },
+  {
+    "src_port": 8080,
+    "dst_port": 56172,
+    "packet_size": 613,
+    "duration_ms": 468,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 8080,
+    "dst_port": 19322,
+    "packet_size": 1047,
+    "duration_ms": 417,
+    "protocol": "TCP"
+  },
+  {
+    "src_port": 8080,
+    "dst_port": 63381,
+    "packet_size": 1373,
+    "duration_ms": 215,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 8080,
+    "dst_port": 20861,
+    "packet_size": 590,
+    "duration_ms": 427,
+    "protocol": "TCP"
+  },
+  {
+    "src_port": 8080,
+    "dst_port": 50520,
+    "packet_size": 585,
+    "duration_ms": 267,
+    "protocol": "TCP"
+  },
+  {
+    "src_port": 443,
+    "dst_port": 32628,
+    "packet_size": 477,
+    "duration_ms": 491,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 22,
+    "dst_port": 58033,
+    "packet_size": 896,
+    "duration_ms": 95,
+    "protocol": "TCP"
+  },
+  {
+    "src_port": 22,
+    "dst_port": 1229,
+    "packet_size": 700,
+    "duration_ms": 431,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 1337,
+    "dst_port": 228,
+    "packet_size": 5000,
+    "duration_ms": 2175,
+    "protocol": "TCP"
+  },
+  {
+    "src_port": 443,
+    "dst_port": 19781,
+    "packet_size": 206,
+    "duration_ms": 278,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 443,
+    "dst_port": 4138,
+    "packet_size": 1091,
+    "duration_ms": 142,
+    "protocol": "TCP"
+  },
+  {
+    "src_port": 443,
+    "dst_port": 60381,
+    "packet_size": 1104,
+    "duration_ms": 348,
+    "protocol": "TCP"
+  },
+  {
+    "src_port": 22,
+    "dst_port": 31724,
+    "packet_size": 303,
+    "duration_ms": 389,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 22,
+    "dst_port": 20151,
+    "packet_size": 841,
+    "duration_ms": 168,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 80,
+    "dst_port": 52518,
+    "packet_size": 1229,
+    "duration_ms": 450,
+    "protocol": "TCP"
+  },
+  {
+    "src_port": 8080,
+    "dst_port": 6108,
+    "packet_size": 1445,
+    "duration_ms": 313,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 443,
+    "dst_port": 59184,
+    "packet_size": 1323,
+    "duration_ms": 378,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 443,
+    "dst_port": 14632,
+    "packet_size": 665,
+    "duration_ms": 65,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 1337,
+    "dst_port": 81,
+    "packet_size": 10,
+    "duration_ms": 3751,
+    "protocol": "TCP"
+  },
+  {
+    "src_port": 8080,
+    "dst_port": 29534,
+    "packet_size": 1419,
+    "duration_ms": 91,
+    "protocol": "TCP"
+  },
+  {
+    "src_port": 443,
+    "dst_port": 46050,
+    "packet_size": 1178,
+    "duration_ms": 184,
+    "protocol": "TCP"
+  },
+  {
+    "src_port": 22,
+    "dst_port": 37404,
+    "packet_size": 1277,
+    "duration_ms": 310,
+    "protocol": "TCP"
+  },
+  {
+    "src_port": 8080,
+    "dst_port": 8788,
+    "packet_size": 139,
+    "duration_ms": 458,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 22,
+    "dst_port": 24932,
+    "packet_size": 803,
+    "duration_ms": 383,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 443,
+    "dst_port": 33294,
+    "packet_size": 562,
+    "duration_ms": 62,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 80,
+    "dst_port": 2585,
+    "packet_size": 212,
+    "duration_ms": 114,
+    "protocol": "TCP"
+  },
+  {
+    "src_port": 80,
+    "dst_port": 6332,
+    "packet_size": 1337,
+    "duration_ms": 406,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 9999,
+    "dst_port": 937,
+    "packet_size": 10,
+    "duration_ms": 4779,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 22,
+    "dst_port": 28414,
+    "packet_size": 585,
+    "duration_ms": 270,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 443,
+    "dst_port": 41070,
+    "packet_size": 1332,
+    "duration_ms": 136,
+    "protocol": "TCP"
+  },
+  {
+    "src_port": 22,
+    "dst_port": 11423,
+    "packet_size": 1479,
+    "duration_ms": 291,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 9999,
+    "dst_port": 87,
+    "packet_size": 5000,
+    "duration_ms": 4452,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 22,
+    "dst_port": 14039,
+    "packet_size": 1425,
+    "duration_ms": 52,
+    "protocol": "TCP"
+  },
+  {
+    "src_port": 80,
+    "dst_port": 40340,
+    "packet_size": 577,
+    "duration_ms": 332,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 6666,
+    "dst_port": 875,
+    "packet_size": 5000,
+    "duration_ms": 4883,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 443,
+    "dst_port": 23936,
+    "packet_size": 145,
+    "duration_ms": 399,
+    "protocol": "TCP"
+  },
+  {
+    "src_port": 443,
+    "dst_port": 31861,
+    "packet_size": 1403,
+    "duration_ms": 310,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 22,
+    "dst_port": 60501,
+    "packet_size": 326,
+    "duration_ms": 120,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 80,
+    "dst_port": 38227,
+    "packet_size": 1238,
+    "duration_ms": 155,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 22,
+    "dst_port": 12836,
+    "packet_size": 219,
+    "duration_ms": 186,
+    "protocol": "TCP"
+  },
+  {
+    "src_port": 8080,
+    "dst_port": 50934,
+    "packet_size": 371,
+    "duration_ms": 387,
+    "protocol": "TCP"
+  },
+  {
+    "src_port": 443,
+    "dst_port": 57355,
+    "packet_size": 1241,
+    "duration_ms": 324,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 443,
+    "dst_port": 10005,
+    "packet_size": 337,
+    "duration_ms": 464,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 443,
+    "dst_port": 6268,
+    "packet_size": 1112,
+    "duration_ms": 78,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 8080,
+    "dst_port": 30623,
+    "packet_size": 1289,
+    "duration_ms": 229,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 443,
+    "dst_port": 45649,
+    "packet_size": 337,
+    "duration_ms": 170,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 8080,
+    "dst_port": 65050,
+    "packet_size": 966,
+    "duration_ms": 281,
+    "protocol": "TCP"
+  },
+  {
+    "src_port": 443,
+    "dst_port": 7490,
+    "packet_size": 267,
+    "duration_ms": 275,
+    "protocol": "TCP"
+  },
+  {
+    "src_port": 6666,
+    "dst_port": 47,
+    "packet_size": 10,
+    "duration_ms": 2419,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 22,
+    "dst_port": 55482,
+    "packet_size": 1350,
+    "duration_ms": 96,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 443,
+    "dst_port": 34980,
+    "packet_size": 798,
+    "duration_ms": 286,
+    "protocol": "TCP"
+  },
+  {
+    "src_port": 8080,
+    "dst_port": 42313,
+    "packet_size": 390,
+    "duration_ms": 365,
+    "protocol": "TCP"
+  },
+  {
+    "src_port": 443,
+    "dst_port": 32997,
+    "packet_size": 115,
+    "duration_ms": 307,
+    "protocol": "TCP"
+  },
+  {
+    "src_port": 8080,
+    "dst_port": 47613,
+    "packet_size": 639,
+    "duration_ms": 160,
+    "protocol": "TCP"
+  },
+  {
+    "src_port": 8080,
+    "dst_port": 1643,
+    "packet_size": 1123,
+    "duration_ms": 137,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 443,
+    "dst_port": 64163,
+    "packet_size": 635,
+    "duration_ms": 103,
+    "protocol": "TCP"
+  },
+  {
+    "src_port": 6666,
+    "dst_port": 151,
+    "packet_size": 5000,
+    "duration_ms": 1543,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 443,
+    "dst_port": 34904,
+    "packet_size": 736,
+    "duration_ms": 227,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 22,
+    "dst_port": 42298,
+    "packet_size": 1114,
+    "duration_ms": 85,
+    "protocol": "TCP"
+  },
+  {
+    "src_port": 443,
+    "dst_port": 57660,
+    "packet_size": 1328,
+    "duration_ms": 220,
+    "protocol": "TCP"
+  },
+  {
+    "src_port": 1337,
+    "dst_port": 57,
+    "packet_size": 5000,
+    "duration_ms": 2443,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 443,
+    "dst_port": 23706,
+    "packet_size": 229,
+    "duration_ms": 324,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 443,
+    "dst_port": 13907,
+    "packet_size": 1001,
+    "duration_ms": 302,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 443,
+    "dst_port": 18217,
+    "packet_size": 205,
+    "duration_ms": 410,
+    "protocol": "TCP"
+  },
+  {
+    "src_port": 443,
+    "dst_port": 30020,
+    "packet_size": 1213,
+    "duration_ms": 145,
+    "protocol": "TCP"
+  },
+  {
+    "src_port": 80,
+    "dst_port": 30429,
+    "packet_size": 1087,
+    "duration_ms": 430,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 22,
+    "dst_port": 63155,
+    "packet_size": 1252,
+    "duration_ms": 297,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 8080,
+    "dst_port": 18039,
+    "packet_size": 710,
+    "duration_ms": 228,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 8080,
+    "dst_port": 63566,
+    "packet_size": 833,
+    "duration_ms": 274,
+    "protocol": "TCP"
+  },
+  {
+    "src_port": 8080,
+    "dst_port": 62238,
+    "packet_size": 939,
+    "duration_ms": 490,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 22,
+    "dst_port": 45687,
+    "packet_size": 327,
+    "duration_ms": 399,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 8080,
+    "dst_port": 9766,
+    "packet_size": 962,
+    "duration_ms": 469,
+    "protocol": "TCP"
+  },
+  {
+    "src_port": 443,
+    "dst_port": 34764,
+    "packet_size": 1319,
+    "duration_ms": 228,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 80,
+    "dst_port": 32461,
+    "packet_size": 1197,
+    "duration_ms": 493,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 9999,
+    "dst_port": 421,
+    "packet_size": 0,
+    "duration_ms": 4975,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 22,
+    "dst_port": 37461,
+    "packet_size": 651,
+    "duration_ms": 101,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 8080,
+    "dst_port": 61031,
+    "packet_size": 223,
+    "duration_ms": 395,
+    "protocol": "TCP"
+  },
+  {
+    "src_port": 22,
+    "dst_port": 5193,
+    "packet_size": 183,
+    "duration_ms": 316,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 443,
+    "dst_port": 41986,
+    "packet_size": 1158,
+    "duration_ms": 171,
+    "protocol": "TCP"
+  },
+  {
+    "src_port": 8080,
+    "dst_port": 54962,
+    "packet_size": 1239,
+    "duration_ms": 68,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 8080,
+    "dst_port": 21371,
+    "packet_size": 714,
+    "duration_ms": 179,
+    "protocol": "TCP"
+  },
+  {
+    "src_port": 443,
+    "dst_port": 44966,
+    "packet_size": 1365,
+    "duration_ms": 93,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 22,
+    "dst_port": 52290,
+    "packet_size": 234,
+    "duration_ms": 82,
+    "protocol": "TCP"
+  },
+  {
+    "src_port": 80,
+    "dst_port": 5548,
+    "packet_size": 523,
+    "duration_ms": 65,
+    "protocol": "TCP"
+  },
+  {
+    "src_port": 443,
+    "dst_port": 5671,
+    "packet_size": 151,
+    "duration_ms": 258,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 443,
+    "dst_port": 64199,
+    "packet_size": 160,
+    "duration_ms": 239,
+    "protocol": "TCP"
+  },
+  {
+    "src_port": 80,
+    "dst_port": 55258,
+    "packet_size": 1316,
+    "duration_ms": 210,
+    "protocol": "TCP"
+  },
+  {
+    "src_port": 80,
+    "dst_port": 24356,
+    "packet_size": 1500,
+    "duration_ms": 114,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 8080,
+    "dst_port": 3269,
+    "packet_size": 1387,
+    "duration_ms": 344,
+    "protocol": "TCP"
+  },
+  {
+    "src_port": 8080,
+    "dst_port": 35210,
+    "packet_size": 795,
+    "duration_ms": 479,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 8080,
+    "dst_port": 59646,
+    "packet_size": 646,
+    "duration_ms": 496,
+    "protocol": "TCP"
+  },
+  {
+    "src_port": 80,
+    "dst_port": 15535,
+    "packet_size": 219,
+    "duration_ms": 293,
+    "protocol": "TCP"
+  },
+  {
+    "src_port": 80,
+    "dst_port": 25284,
+    "packet_size": 657,
+    "duration_ms": 109,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 80,
+    "dst_port": 35767,
+    "packet_size": 755,
+    "duration_ms": 207,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 22,
+    "dst_port": 5902,
+    "packet_size": 958,
+    "duration_ms": 144,
+    "protocol": "TCP"
+  },
+  {
+    "src_port": 443,
+    "dst_port": 37574,
+    "packet_size": 598,
+    "duration_ms": 444,
+    "protocol": "TCP"
+  },
+  {
+    "src_port": 443,
+    "dst_port": 53520,
+    "packet_size": 664,
+    "duration_ms": 438,
+    "protocol": "TCP"
+  },
+  {
+    "src_port": 443,
+    "dst_port": 23040,
+    "packet_size": 1063,
+    "duration_ms": 433,
+    "protocol": "TCP"
+  },
+  {
+    "src_port": 22,
+    "dst_port": 16220,
+    "packet_size": 101,
+    "duration_ms": 88,
+    "protocol": "TCP"
+  },
+  {
+    "src_port": 8080,
+    "dst_port": 17341,
+    "packet_size": 562,
+    "duration_ms": 81,
+    "protocol": "TCP"
+  },
+  {
+    "src_port": 22,
+    "dst_port": 28794,
+    "packet_size": 414,
+    "duration_ms": 297,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 80,
+    "dst_port": 6776,
+    "packet_size": 336,
+    "duration_ms": 312,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 8080,
+    "dst_port": 31089,
+    "packet_size": 1277,
+    "duration_ms": 124,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 8080,
+    "dst_port": 56156,
+    "packet_size": 1193,
+    "duration_ms": 445,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 22,
+    "dst_port": 21139,
+    "packet_size": 628,
+    "duration_ms": 74,
+    "protocol": "TCP"
+  },
+  {
+    "src_port": 9999,
+    "dst_port": 513,
+    "packet_size": 0,
+    "duration_ms": 2542,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 8080,
+    "dst_port": 22446,
+    "packet_size": 772,
+    "duration_ms": 428,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 443,
+    "dst_port": 28057,
+    "packet_size": 909,
+    "duration_ms": 148,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 443,
+    "dst_port": 47503,
+    "packet_size": 1324,
+    "duration_ms": 96,
+    "protocol": "TCP"
+  },
+  {
+    "src_port": 443,
+    "dst_port": 5559,
+    "packet_size": 1153,
+    "duration_ms": 439,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 8080,
+    "dst_port": 49650,
+    "packet_size": 1385,
+    "duration_ms": 450,
+    "protocol": "TCP"
+  },
+  {
+    "src_port": 22,
+    "dst_port": 29971,
+    "packet_size": 465,
+    "duration_ms": 232,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 80,
+    "dst_port": 14267,
+    "packet_size": 1301,
+    "duration_ms": 93,
+    "protocol": "TCP"
+  },
+  {
+    "src_port": 8080,
+    "dst_port": 43410,
+    "packet_size": 689,
+    "duration_ms": 353,
+    "protocol": "TCP"
+  },
+  {
+    "src_port": 6666,
+    "dst_port": 766,
+    "packet_size": 5000,
+    "duration_ms": 2578,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 1337,
+    "dst_port": 716,
+    "packet_size": 5000,
+    "duration_ms": 3867,
+    "protocol": "TCP"
+  },
+  {
+    "src_port": 443,
+    "dst_port": 36161,
+    "packet_size": 896,
+    "duration_ms": 446,
+    "protocol": "TCP"
+  },
+  {
+    "src_port": 443,
+    "dst_port": 34697,
+    "packet_size": 442,
+    "duration_ms": 444,
+    "protocol": "TCP"
+  },
+  {
+    "src_port": 22,
+    "dst_port": 4357,
+    "packet_size": 1475,
+    "duration_ms": 204,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 22,
+    "dst_port": 55567,
+    "packet_size": 432,
+    "duration_ms": 208,
+    "protocol": "TCP"
+  },
+  {
+    "src_port": 443,
+    "dst_port": 33619,
+    "packet_size": 351,
+    "duration_ms": 436,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 22,
+    "dst_port": 57314,
+    "packet_size": 927,
+    "duration_ms": 151,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 22,
+    "dst_port": 43901,
+    "packet_size": 1042,
+    "duration_ms": 172,
+    "protocol": "TCP"
+  },
+  {
+    "src_port": 22,
+    "dst_port": 48170,
+    "packet_size": 1204,
+    "duration_ms": 443,
+    "protocol": "TCP"
+  },
+  {
+    "src_port": 80,
+    "dst_port": 29502,
+    "packet_size": 860,
+    "duration_ms": 78,
+    "protocol": "TCP"
+  },
+  {
+    "src_port": 80,
+    "dst_port": 64860,
+    "packet_size": 421,
+    "duration_ms": 105,
+    "protocol": "TCP"
+  },
+  {
+    "src_port": 80,
+    "dst_port": 50180,
+    "packet_size": 1498,
+    "duration_ms": 147,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 443,
+    "dst_port": 13309,
+    "packet_size": 847,
+    "duration_ms": 198,
+    "protocol": "TCP"
+  },
+  {
+    "src_port": 8080,
+    "dst_port": 55225,
+    "packet_size": 231,
+    "duration_ms": 217,
+    "protocol": "TCP"
+  },
+  {
+    "src_port": 80,
+    "dst_port": 37397,
+    "packet_size": 1278,
+    "duration_ms": 320,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 8080,
+    "dst_port": 43147,
+    "packet_size": 539,
+    "duration_ms": 495,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 8080,
+    "dst_port": 62004,
+    "packet_size": 221,
+    "duration_ms": 285,
+    "protocol": "TCP"
+  },
+  {
+    "src_port": 8080,
+    "dst_port": 8757,
+    "packet_size": 622,
+    "duration_ms": 196,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 22,
+    "dst_port": 65207,
+    "packet_size": 1385,
+    "duration_ms": 479,
+    "protocol": "TCP"
+  },
+  {
+    "src_port": 80,
+    "dst_port": 33159,
+    "packet_size": 1110,
+    "duration_ms": 456,
+    "protocol": "TCP"
+  },
+  {
+    "src_port": 443,
+    "dst_port": 26957,
+    "packet_size": 836,
+    "duration_ms": 203,
+    "protocol": "TCP"
+  },
+  {
+    "src_port": 22,
+    "dst_port": 33127,
+    "packet_size": 772,
+    "duration_ms": 81,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 22,
+    "dst_port": 31406,
+    "packet_size": 701,
+    "duration_ms": 353,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 9999,
+    "dst_port": 919,
+    "packet_size": 10,
+    "duration_ms": 1830,
+    "protocol": "TCP"
+  },
+  {
+    "src_port": 9999,
+    "dst_port": 80,
+    "packet_size": 5000,
+    "duration_ms": 2455,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 8080,
+    "dst_port": 9518,
+    "packet_size": 915,
+    "duration_ms": 500,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 80,
+    "dst_port": 10185,
+    "packet_size": 1070,
+    "duration_ms": 303,
+    "protocol": "TCP"
+  },
+  {
+    "src_port": 443,
+    "dst_port": 39324,
+    "packet_size": 1499,
+    "duration_ms": 205,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 443,
+    "dst_port": 14193,
+    "packet_size": 1119,
+    "duration_ms": 484,
+    "protocol": "TCP"
+  },
+  {
+    "src_port": 8080,
+    "dst_port": 21257,
+    "packet_size": 941,
+    "duration_ms": 208,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 6666,
+    "dst_port": 915,
+    "packet_size": 5000,
+    "duration_ms": 4784,
+    "protocol": "TCP"
+  },
+  {
+    "src_port": 8080,
+    "dst_port": 24262,
+    "packet_size": 390,
+    "duration_ms": 310,
+    "protocol": "TCP"
+  },
+  {
+    "src_port": 8080,
+    "dst_port": 46816,
+    "packet_size": 859,
+    "duration_ms": 376,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 22,
+    "dst_port": 48882,
+    "packet_size": 464,
+    "duration_ms": 224,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 80,
+    "dst_port": 43711,
+    "packet_size": 1442,
+    "duration_ms": 322,
+    "protocol": "TCP"
+  },
+  {
+    "src_port": 22,
+    "dst_port": 37834,
+    "packet_size": 1415,
+    "duration_ms": 89,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 80,
+    "dst_port": 48265,
+    "packet_size": 1171,
+    "duration_ms": 414,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 8080,
+    "dst_port": 3856,
+    "packet_size": 146,
+    "duration_ms": 301,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 8080,
+    "dst_port": 55108,
+    "packet_size": 174,
+    "duration_ms": 461,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 9999,
+    "dst_port": 943,
+    "packet_size": 0,
+    "duration_ms": 3250,
+    "protocol": "TCP"
+  },
+  {
+    "src_port": 22,
+    "dst_port": 21240,
+    "packet_size": 993,
+    "duration_ms": 214,
+    "protocol": "TCP"
+  },
+  {
+    "src_port": 22,
+    "dst_port": 48906,
+    "packet_size": 934,
+    "duration_ms": 345,
+    "protocol": "TCP"
+  },
+  {
+    "src_port": 8080,
+    "dst_port": 2143,
+    "packet_size": 845,
+    "duration_ms": 93,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 443,
+    "dst_port": 36927,
+    "packet_size": 1024,
+    "duration_ms": 234,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 443,
+    "dst_port": 43574,
+    "packet_size": 1328,
+    "duration_ms": 267,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 8080,
+    "dst_port": 37351,
+    "packet_size": 349,
+    "duration_ms": 450,
+    "protocol": "TCP"
+  },
+  {
+    "src_port": 8080,
+    "dst_port": 1035,
+    "packet_size": 1456,
+    "duration_ms": 208,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 443,
+    "dst_port": 33005,
+    "packet_size": 711,
+    "duration_ms": 358,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 8080,
+    "dst_port": 47140,
+    "packet_size": 1019,
+    "duration_ms": 319,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 8080,
+    "dst_port": 11581,
+    "packet_size": 821,
+    "duration_ms": 252,
+    "protocol": "TCP"
+  },
+  {
+    "src_port": 1337,
+    "dst_port": 964,
+    "packet_size": 0,
+    "duration_ms": 3646,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 9999,
+    "dst_port": 676,
+    "packet_size": 5000,
+    "duration_ms": 3532,
+    "protocol": "TCP"
+  },
+  {
+    "src_port": 22,
+    "dst_port": 50003,
+    "packet_size": 351,
+    "duration_ms": 276,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 80,
+    "dst_port": 53928,
+    "packet_size": 936,
+    "duration_ms": 123,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 443,
+    "dst_port": 54497,
+    "packet_size": 530,
+    "duration_ms": 333,
+    "protocol": "TCP"
+  },
+  {
+    "src_port": 8080,
+    "dst_port": 16209,
+    "packet_size": 235,
+    "duration_ms": 68,
+    "protocol": "TCP"
+  },
+  {
+    "src_port": 22,
+    "dst_port": 51440,
+    "packet_size": 927,
+    "duration_ms": 356,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 8080,
+    "dst_port": 55631,
+    "packet_size": 529,
+    "duration_ms": 499,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 22,
+    "dst_port": 26963,
+    "packet_size": 411,
+    "duration_ms": 254,
+    "protocol": "TCP"
+  },
+  {
+    "src_port": 80,
+    "dst_port": 2315,
+    "packet_size": 760,
+    "duration_ms": 490,
+    "protocol": "TCP"
+  },
+  {
+    "src_port": 8080,
+    "dst_port": 61212,
+    "packet_size": 353,
+    "duration_ms": 225,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 443,
+    "dst_port": 8301,
+    "packet_size": 345,
+    "duration_ms": 322,
+    "protocol": "TCP"
+  },
+  {
+    "src_port": 80,
+    "dst_port": 17899,
+    "packet_size": 985,
+    "duration_ms": 259,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 80,
+    "dst_port": 9952,
+    "packet_size": 386,
+    "duration_ms": 186,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 22,
+    "dst_port": 42421,
+    "packet_size": 1405,
+    "duration_ms": 118,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 443,
+    "dst_port": 25768,
+    "packet_size": 777,
+    "duration_ms": 479,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 22,
+    "dst_port": 22802,
+    "packet_size": 1360,
+    "duration_ms": 129,
+    "protocol": "TCP"
+  },
+  {
+    "src_port": 443,
+    "dst_port": 24582,
+    "packet_size": 262,
+    "duration_ms": 422,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 443,
+    "dst_port": 6366,
+    "packet_size": 1274,
+    "duration_ms": 371,
+    "protocol": "TCP"
+  },
+  {
+    "src_port": 443,
+    "dst_port": 23834,
+    "packet_size": 855,
+    "duration_ms": 156,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 22,
+    "dst_port": 6453,
+    "packet_size": 1045,
+    "duration_ms": 174,
+    "protocol": "TCP"
+  },
+  {
+    "src_port": 80,
+    "dst_port": 39071,
+    "packet_size": 761,
+    "duration_ms": 339,
+    "protocol": "TCP"
+  },
+  {
+    "src_port": 8080,
+    "dst_port": 59201,
+    "packet_size": 1286,
+    "duration_ms": 122,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 8080,
+    "dst_port": 42498,
+    "packet_size": 1324,
+    "duration_ms": 193,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 8080,
+    "dst_port": 60838,
+    "packet_size": 623,
+    "duration_ms": 123,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 22,
+    "dst_port": 52958,
+    "packet_size": 132,
+    "duration_ms": 246,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 443,
+    "dst_port": 34702,
+    "packet_size": 1034,
+    "duration_ms": 97,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 8080,
+    "dst_port": 38137,
+    "packet_size": 791,
+    "duration_ms": 223,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 22,
+    "dst_port": 52270,
+    "packet_size": 1028,
+    "duration_ms": 277,
+    "protocol": "TCP"
+  },
+  {
+    "src_port": 80,
+    "dst_port": 8754,
+    "packet_size": 908,
+    "duration_ms": 99,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 22,
+    "dst_port": 8633,
+    "packet_size": 1300,
+    "duration_ms": 212,
+    "protocol": "TCP"
+  },
+  {
+    "src_port": 8080,
+    "dst_port": 46053,
+    "packet_size": 1409,
+    "duration_ms": 217,
+    "protocol": "TCP"
+  },
+  {
+    "src_port": 8080,
+    "dst_port": 43895,
+    "packet_size": 423,
+    "duration_ms": 346,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 443,
+    "dst_port": 43076,
+    "packet_size": 714,
+    "duration_ms": 356,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 80,
+    "dst_port": 23711,
+    "packet_size": 239,
+    "duration_ms": 59,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 80,
+    "dst_port": 51210,
+    "packet_size": 428,
+    "duration_ms": 401,
+    "protocol": "TCP"
+  },
+  {
+    "src_port": 22,
+    "dst_port": 26936,
+    "packet_size": 173,
+    "duration_ms": 186,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 1337,
+    "dst_port": 102,
+    "packet_size": 10,
+    "duration_ms": 3230,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 443,
+    "dst_port": 48691,
+    "packet_size": 1371,
+    "duration_ms": 284,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 8080,
+    "dst_port": 13851,
+    "packet_size": 221,
+    "duration_ms": 173,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 443,
+    "dst_port": 51254,
+    "packet_size": 191,
+    "duration_ms": 305,
+    "protocol": "TCP"
+  },
+  {
+    "src_port": 443,
+    "dst_port": 40143,
+    "packet_size": 181,
+    "duration_ms": 426,
+    "protocol": "TCP"
+  },
+  {
+    "src_port": 8080,
+    "dst_port": 32156,
+    "packet_size": 1152,
+    "duration_ms": 423,
+    "protocol": "TCP"
+  },
+  {
+    "src_port": 22,
+    "dst_port": 39723,
+    "packet_size": 829,
+    "duration_ms": 79,
+    "protocol": "TCP"
+  },
+  {
+    "src_port": 22,
+    "dst_port": 15385,
+    "packet_size": 1335,
+    "duration_ms": 141,
+    "protocol": "TCP"
+  },
+  {
+    "src_port": 443,
+    "dst_port": 55278,
+    "packet_size": 843,
+    "duration_ms": 120,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 443,
+    "dst_port": 42934,
+    "packet_size": 1352,
+    "duration_ms": 76,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 443,
+    "dst_port": 49969,
+    "packet_size": 1249,
+    "duration_ms": 466,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 8080,
+    "dst_port": 33545,
+    "packet_size": 906,
+    "duration_ms": 150,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 80,
+    "dst_port": 1398,
+    "packet_size": 1342,
+    "duration_ms": 469,
+    "protocol": "TCP"
+  },
+  {
+    "src_port": 22,
+    "dst_port": 43651,
+    "packet_size": 126,
+    "duration_ms": 284,
+    "protocol": "TCP"
+  },
+  {
+    "src_port": 443,
+    "dst_port": 57696,
+    "packet_size": 397,
+    "duration_ms": 55,
+    "protocol": "TCP"
+  },
+  {
+    "src_port": 80,
+    "dst_port": 53812,
+    "packet_size": 689,
+    "duration_ms": 467,
+    "protocol": "TCP"
+  },
+  {
+    "src_port": 443,
+    "dst_port": 61678,
+    "packet_size": 469,
+    "duration_ms": 440,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 22,
+    "dst_port": 49201,
+    "packet_size": 855,
+    "duration_ms": 486,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 8080,
+    "dst_port": 1311,
+    "packet_size": 1271,
+    "duration_ms": 477,
+    "protocol": "TCP"
+  },
+  {
+    "src_port": 80,
+    "dst_port": 25564,
+    "packet_size": 202,
+    "duration_ms": 63,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 8080,
+    "dst_port": 2895,
+    "packet_size": 1066,
+    "duration_ms": 462,
+    "protocol": "TCP"
+  },
+  {
+    "src_port": 80,
+    "dst_port": 2492,
+    "packet_size": 1413,
+    "duration_ms": 50,
+    "protocol": "TCP"
+  },
+  {
+    "src_port": 80,
+    "dst_port": 34968,
+    "packet_size": 999,
+    "duration_ms": 241,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 443,
+    "dst_port": 9700,
+    "packet_size": 906,
+    "duration_ms": 166,
+    "protocol": "TCP"
+  },
+  {
+    "src_port": 443,
+    "dst_port": 25325,
+    "packet_size": 127,
+    "duration_ms": 230,
+    "protocol": "TCP"
+  },
+  {
+    "src_port": 80,
+    "dst_port": 9522,
+    "packet_size": 963,
+    "duration_ms": 314,
+    "protocol": "TCP"
+  },
+  {
+    "src_port": 443,
+    "dst_port": 59500,
+    "packet_size": 561,
+    "duration_ms": 382,
+    "protocol": "TCP"
+  },
+  {
+    "src_port": 9999,
+    "dst_port": 424,
+    "packet_size": 5000,
+    "duration_ms": 2532,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 443,
+    "dst_port": 56689,
+    "packet_size": 1091,
+    "duration_ms": 473,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 1337,
+    "dst_port": 724,
+    "packet_size": 5000,
+    "duration_ms": 2284,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 80,
+    "dst_port": 59703,
+    "packet_size": 538,
+    "duration_ms": 64,
+    "protocol": "TCP"
+  },
+  {
+    "src_port": 9999,
+    "dst_port": 959,
+    "packet_size": 10,
+    "duration_ms": 4802,
+    "protocol": "TCP"
+  },
+  {
+    "src_port": 80,
+    "dst_port": 46140,
+    "packet_size": 1388,
+    "duration_ms": 61,
+    "protocol": "TCP"
+  },
+  {
+    "src_port": 443,
+    "dst_port": 46473,
+    "packet_size": 1223,
+    "duration_ms": 353,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 443,
+    "dst_port": 59207,
+    "packet_size": 171,
+    "duration_ms": 438,
+    "protocol": "TCP"
+  },
+  {
+    "src_port": 8080,
+    "dst_port": 13557,
+    "packet_size": 1175,
+    "duration_ms": 133,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 443,
+    "dst_port": 35486,
+    "packet_size": 257,
+    "duration_ms": 188,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 22,
+    "dst_port": 46986,
+    "packet_size": 786,
+    "duration_ms": 455,
+    "protocol": "TCP"
+  },
+  {
+    "src_port": 9999,
+    "dst_port": 911,
+    "packet_size": 5000,
+    "duration_ms": 3039,
+    "protocol": "TCP"
+  },
+  {
+    "src_port": 443,
+    "dst_port": 55540,
+    "packet_size": 896,
+    "duration_ms": 449,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 22,
+    "dst_port": 14785,
+    "packet_size": 924,
+    "duration_ms": 321,
+    "protocol": "TCP"
+  },
+  {
+    "src_port": 443,
+    "dst_port": 49754,
+    "packet_size": 1238,
+    "duration_ms": 432,
+    "protocol": "TCP"
+  },
+  {
+    "src_port": 80,
+    "dst_port": 48275,
+    "packet_size": 683,
+    "duration_ms": 300,
+    "protocol": "TCP"
+  },
+  {
+    "src_port": 443,
+    "dst_port": 15926,
+    "packet_size": 1302,
+    "duration_ms": 339,
+    "protocol": "TCP"
+  },
+  {
+    "src_port": 443,
+    "dst_port": 64864,
+    "packet_size": 948,
+    "duration_ms": 259,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 8080,
+    "dst_port": 16481,
+    "packet_size": 968,
+    "duration_ms": 426,
+    "protocol": "TCP"
+  },
+  {
+    "src_port": 443,
+    "dst_port": 7963,
+    "packet_size": 966,
+    "duration_ms": 190,
+    "protocol": "TCP"
+  },
+  {
+    "src_port": 8080,
+    "dst_port": 13677,
+    "packet_size": 896,
+    "duration_ms": 238,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 443,
+    "dst_port": 32676,
+    "packet_size": 286,
+    "duration_ms": 370,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 443,
+    "dst_port": 33777,
+    "packet_size": 1123,
+    "duration_ms": 290,
+    "protocol": "TCP"
+  },
+  {
+    "src_port": 22,
+    "dst_port": 60685,
+    "packet_size": 930,
+    "duration_ms": 405,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 80,
+    "dst_port": 54859,
+    "packet_size": 1013,
+    "duration_ms": 152,
+    "protocol": "TCP"
+  },
+  {
+    "src_port": 8080,
+    "dst_port": 55817,
+    "packet_size": 284,
+    "duration_ms": 306,
+    "protocol": "TCP"
+  },
+  {
+    "src_port": 8080,
+    "dst_port": 34152,
+    "packet_size": 1004,
+    "duration_ms": 222,
+    "protocol": "TCP"
+  },
+  {
+    "src_port": 80,
+    "dst_port": 10608,
+    "packet_size": 125,
+    "duration_ms": 158,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 9999,
+    "dst_port": 749,
+    "packet_size": 0,
+    "duration_ms": 1382,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 22,
+    "dst_port": 10485,
+    "packet_size": 1322,
+    "duration_ms": 396,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 443,
+    "dst_port": 28525,
+    "packet_size": 151,
+    "duration_ms": 185,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 8080,
+    "dst_port": 41638,
+    "packet_size": 514,
+    "duration_ms": 429,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 443,
+    "dst_port": 56363,
+    "packet_size": 1441,
+    "duration_ms": 116,
+    "protocol": "TCP"
+  },
+  {
+    "src_port": 8080,
+    "dst_port": 37677,
+    "packet_size": 123,
+    "duration_ms": 487,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 8080,
+    "dst_port": 14168,
+    "packet_size": 671,
+    "duration_ms": 161,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 80,
+    "dst_port": 43290,
+    "packet_size": 428,
+    "duration_ms": 195,
+    "protocol": "TCP"
+  },
+  {
+    "src_port": 22,
+    "dst_port": 58372,
+    "packet_size": 184,
+    "duration_ms": 155,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 9999,
+    "dst_port": 723,
+    "packet_size": 0,
+    "duration_ms": 2723,
+    "protocol": "TCP"
+  },
+  {
+    "src_port": 8080,
+    "dst_port": 29808,
+    "packet_size": 1496,
+    "duration_ms": 125,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 8080,
+    "dst_port": 53483,
+    "packet_size": 1353,
+    "duration_ms": 467,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 80,
+    "dst_port": 19804,
+    "packet_size": 942,
+    "duration_ms": 411,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 9999,
+    "dst_port": 838,
+    "packet_size": 0,
+    "duration_ms": 4056,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 443,
+    "dst_port": 13319,
+    "packet_size": 174,
+    "duration_ms": 363,
+    "protocol": "TCP"
+  },
+  {
+    "src_port": 8080,
+    "dst_port": 50173,
+    "packet_size": 1301,
+    "duration_ms": 458,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 22,
+    "dst_port": 34713,
+    "packet_size": 320,
+    "duration_ms": 190,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 80,
+    "dst_port": 5666,
+    "packet_size": 414,
+    "duration_ms": 88,
+    "protocol": "TCP"
+  },
+  {
+    "src_port": 22,
+    "dst_port": 44958,
+    "packet_size": 151,
+    "duration_ms": 410,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 443,
+    "dst_port": 15496,
+    "packet_size": 803,
+    "duration_ms": 156,
+    "protocol": "TCP"
+  },
+  {
+    "src_port": 22,
+    "dst_port": 42516,
+    "packet_size": 1147,
+    "duration_ms": 267,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 443,
+    "dst_port": 29427,
+    "packet_size": 1323,
+    "duration_ms": 493,
+    "protocol": "TCP"
+  },
+  {
+    "src_port": 443,
+    "dst_port": 13769,
+    "packet_size": 1248,
+    "duration_ms": 78,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 8080,
+    "dst_port": 61978,
+    "packet_size": 242,
+    "duration_ms": 91,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 80,
+    "dst_port": 35253,
+    "packet_size": 114,
+    "duration_ms": 115,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 80,
+    "dst_port": 3614,
+    "packet_size": 321,
+    "duration_ms": 478,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 8080,
+    "dst_port": 61917,
+    "packet_size": 880,
+    "duration_ms": 300,
+    "protocol": "TCP"
+  },
+  {
+    "src_port": 443,
+    "dst_port": 65521,
+    "packet_size": 280,
+    "duration_ms": 373,
+    "protocol": "TCP"
+  },
+  {
+    "src_port": 22,
+    "dst_port": 4166,
+    "packet_size": 788,
+    "duration_ms": 115,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 80,
+    "dst_port": 8456,
+    "packet_size": 464,
+    "duration_ms": 219,
+    "protocol": "TCP"
+  },
+  {
+    "src_port": 443,
+    "dst_port": 46583,
+    "packet_size": 715,
+    "duration_ms": 138,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 80,
+    "dst_port": 44296,
+    "packet_size": 795,
+    "duration_ms": 178,
+    "protocol": "TCP"
+  },
+  {
+    "src_port": 8080,
+    "dst_port": 22996,
+    "packet_size": 1016,
+    "duration_ms": 55,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 22,
+    "dst_port": 64131,
+    "packet_size": 486,
+    "duration_ms": 161,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 8080,
+    "dst_port": 56810,
+    "packet_size": 1226,
+    "duration_ms": 152,
+    "protocol": "TCP"
+  },
+  {
+    "src_port": 8080,
+    "dst_port": 40140,
+    "packet_size": 1186,
+    "duration_ms": 490,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 6666,
+    "dst_port": 113,
+    "packet_size": 10,
+    "duration_ms": 4024,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 22,
+    "dst_port": 47153,
+    "packet_size": 1241,
+    "duration_ms": 396,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 22,
+    "dst_port": 24605,
+    "packet_size": 823,
+    "duration_ms": 382,
+    "protocol": "TCP"
+  },
+  {
+    "src_port": 8080,
+    "dst_port": 35218,
+    "packet_size": 1450,
+    "duration_ms": 366,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 8080,
+    "dst_port": 25348,
+    "packet_size": 1234,
+    "duration_ms": 295,
+    "protocol": "TCP"
+  },
+  {
+    "src_port": 443,
+    "dst_port": 31883,
+    "packet_size": 642,
+    "duration_ms": 278,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 80,
+    "dst_port": 18746,
+    "packet_size": 185,
+    "duration_ms": 416,
+    "protocol": "TCP"
+  },
+  {
+    "src_port": 443,
+    "dst_port": 63922,
+    "packet_size": 145,
+    "duration_ms": 93,
+    "protocol": "TCP"
+  },
+  {
+    "src_port": 80,
+    "dst_port": 46177,
+    "packet_size": 237,
+    "duration_ms": 102,
+    "protocol": "TCP"
+  },
+  {
+    "src_port": 443,
+    "dst_port": 28851,
+    "packet_size": 134,
+    "duration_ms": 89,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 80,
+    "dst_port": 25321,
+    "packet_size": 1005,
+    "duration_ms": 216,
+    "protocol": "TCP"
+  },
+  {
+    "src_port": 22,
+    "dst_port": 28027,
+    "packet_size": 725,
+    "duration_ms": 292,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 80,
+    "dst_port": 5181,
+    "packet_size": 301,
+    "duration_ms": 338,
+    "protocol": "TCP"
+  },
+  {
+    "src_port": 6666,
+    "dst_port": 224,
+    "packet_size": 5000,
+    "duration_ms": 3421,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 22,
+    "dst_port": 5917,
+    "packet_size": 584,
+    "duration_ms": 428,
+    "protocol": "TCP"
+  },
+  {
+    "src_port": 6666,
+    "dst_port": 828,
+    "packet_size": 10,
+    "duration_ms": 3020,
+    "protocol": "TCP"
+  },
+  {
+    "src_port": 22,
+    "dst_port": 50441,
+    "packet_size": 591,
+    "duration_ms": 89,
+    "protocol": "TCP"
+  },
+  {
+    "src_port": 8080,
+    "dst_port": 8117,
+    "packet_size": 1114,
+    "duration_ms": 123,
+    "protocol": "TCP"
+  },
+  {
+    "src_port": 9999,
+    "dst_port": 869,
+    "packet_size": 0,
+    "duration_ms": 4471,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 443,
+    "dst_port": 26509,
+    "packet_size": 1162,
+    "duration_ms": 116,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 1337,
+    "dst_port": 629,
+    "packet_size": 5000,
+    "duration_ms": 3499,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 80,
+    "dst_port": 37325,
+    "packet_size": 1066,
+    "duration_ms": 491,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 80,
+    "dst_port": 44707,
+    "packet_size": 267,
+    "duration_ms": 339,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 443,
+    "dst_port": 47470,
+    "packet_size": 1037,
+    "duration_ms": 354,
+    "protocol": "TCP"
+  },
+  {
+    "src_port": 1337,
+    "dst_port": 220,
+    "packet_size": 5000,
+    "duration_ms": 1723,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 443,
+    "dst_port": 15791,
+    "packet_size": 1002,
+    "duration_ms": 205,
+    "protocol": "TCP"
+  },
+  {
+    "src_port": 8080,
+    "dst_port": 45569,
+    "packet_size": 984,
+    "duration_ms": 334,
+    "protocol": "TCP"
+  },
+  {
+    "src_port": 80,
+    "dst_port": 57149,
+    "packet_size": 840,
+    "duration_ms": 397,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 443,
+    "dst_port": 64397,
+    "packet_size": 1036,
+    "duration_ms": 338,
+    "protocol": "TCP"
+  },
+  {
+    "src_port": 443,
+    "dst_port": 51155,
+    "packet_size": 1259,
+    "duration_ms": 321,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 8080,
+    "dst_port": 44161,
+    "packet_size": 1490,
+    "duration_ms": 136,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 80,
+    "dst_port": 6825,
+    "packet_size": 927,
+    "duration_ms": 118,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 1337,
+    "dst_port": 199,
+    "packet_size": 5000,
+    "duration_ms": 3353,
+    "protocol": "TCP"
+  },
+  {
+    "src_port": 8080,
+    "dst_port": 11366,
+    "packet_size": 1114,
+    "duration_ms": 431,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 80,
+    "dst_port": 44606,
+    "packet_size": 433,
+    "duration_ms": 413,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 443,
+    "dst_port": 51596,
+    "packet_size": 403,
+    "duration_ms": 202,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 22,
+    "dst_port": 31237,
+    "packet_size": 673,
+    "duration_ms": 124,
+    "protocol": "TCP"
+  },
+  {
+    "src_port": 22,
+    "dst_port": 59586,
+    "packet_size": 874,
+    "duration_ms": 330,
+    "protocol": "TCP"
+  },
+  {
+    "src_port": 443,
+    "dst_port": 10212,
+    "packet_size": 1357,
+    "duration_ms": 232,
+    "protocol": "TCP"
+  },
+  {
+    "src_port": 8080,
+    "dst_port": 28839,
+    "packet_size": 1216,
+    "duration_ms": 414,
+    "protocol": "TCP"
+  },
+  {
+    "src_port": 22,
+    "dst_port": 45691,
+    "packet_size": 1422,
+    "duration_ms": 228,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 9999,
+    "dst_port": 900,
+    "packet_size": 0,
+    "duration_ms": 1609,
+    "protocol": "TCP"
+  },
+  {
+    "src_port": 22,
+    "dst_port": 3028,
+    "packet_size": 872,
+    "duration_ms": 406,
+    "protocol": "TCP"
+  },
+  {
+    "src_port": 80,
+    "dst_port": 17181,
+    "packet_size": 735,
+    "duration_ms": 154,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 8080,
+    "dst_port": 45088,
+    "packet_size": 751,
+    "duration_ms": 445,
+    "protocol": "TCP"
+  },
+  {
+    "src_port": 8080,
+    "dst_port": 30314,
+    "packet_size": 1134,
+    "duration_ms": 202,
+    "protocol": "TCP"
+  },
+  {
+    "src_port": 22,
+    "dst_port": 20066,
+    "packet_size": 884,
+    "duration_ms": 388,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 8080,
+    "dst_port": 11405,
+    "packet_size": 261,
+    "duration_ms": 382,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 8080,
+    "dst_port": 28711,
+    "packet_size": 1412,
+    "duration_ms": 196,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 8080,
+    "dst_port": 30932,
+    "packet_size": 1497,
+    "duration_ms": 63,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 80,
+    "dst_port": 25257,
+    "packet_size": 485,
+    "duration_ms": 156,
+    "protocol": "TCP"
+  },
+  {
+    "src_port": 8080,
+    "dst_port": 63681,
+    "packet_size": 970,
+    "duration_ms": 73,
+    "protocol": "TCP"
+  },
+  {
+    "src_port": 8080,
+    "dst_port": 5620,
+    "packet_size": 1272,
+    "duration_ms": 276,
+    "protocol": "TCP"
+  },
+  {
+    "src_port": 8080,
+    "dst_port": 37462,
+    "packet_size": 135,
+    "duration_ms": 388,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 443,
+    "dst_port": 47265,
+    "packet_size": 1121,
+    "duration_ms": 395,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 80,
+    "dst_port": 20874,
+    "packet_size": 523,
+    "duration_ms": 203,
+    "protocol": "TCP"
+  },
+  {
+    "src_port": 22,
+    "dst_port": 23374,
+    "packet_size": 552,
+    "duration_ms": 53,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 443,
+    "dst_port": 15509,
+    "packet_size": 1260,
+    "duration_ms": 412,
+    "protocol": "TCP"
+  },
+  {
+    "src_port": 80,
+    "dst_port": 55011,
+    "packet_size": 319,
+    "duration_ms": 206,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 80,
+    "dst_port": 39609,
+    "packet_size": 829,
+    "duration_ms": 90,
+    "protocol": "TCP"
+  },
+  {
+    "src_port": 8080,
+    "dst_port": 47182,
+    "packet_size": 952,
+    "duration_ms": 75,
+    "protocol": "TCP"
+  },
+  {
+    "src_port": 8080,
+    "dst_port": 41094,
+    "packet_size": 1304,
+    "duration_ms": 337,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 8080,
+    "dst_port": 24041,
+    "packet_size": 1476,
+    "duration_ms": 250,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 80,
+    "dst_port": 7253,
+    "packet_size": 925,
+    "duration_ms": 464,
+    "protocol": "TCP"
+  },
+  {
+    "src_port": 22,
+    "dst_port": 33180,
+    "packet_size": 1283,
+    "duration_ms": 61,
+    "protocol": "TCP"
+  },
+  {
+    "src_port": 9999,
+    "dst_port": 524,
+    "packet_size": 10,
+    "duration_ms": 4501,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 22,
+    "dst_port": 24284,
+    "packet_size": 1160,
+    "duration_ms": 278,
+    "protocol": "TCP"
+  },
+  {
+    "src_port": 8080,
+    "dst_port": 37295,
+    "packet_size": 1333,
+    "duration_ms": 86,
+    "protocol": "TCP"
+  },
+  {
+    "src_port": 22,
+    "dst_port": 29959,
+    "packet_size": 609,
+    "duration_ms": 95,
+    "protocol": "TCP"
+  },
+  {
+    "src_port": 22,
+    "dst_port": 50882,
+    "packet_size": 1407,
+    "duration_ms": 67,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 443,
+    "dst_port": 6205,
+    "packet_size": 361,
+    "duration_ms": 466,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 22,
+    "dst_port": 6530,
+    "packet_size": 966,
+    "duration_ms": 346,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 22,
+    "dst_port": 61055,
+    "packet_size": 1229,
+    "duration_ms": 71,
+    "protocol": "TCP"
+  },
+  {
+    "src_port": 80,
+    "dst_port": 45305,
+    "packet_size": 461,
+    "duration_ms": 196,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 22,
+    "dst_port": 62449,
+    "packet_size": 209,
+    "duration_ms": 387,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 443,
+    "dst_port": 39421,
+    "packet_size": 879,
+    "duration_ms": 303,
+    "protocol": "TCP"
+  },
+  {
+    "src_port": 8080,
+    "dst_port": 3028,
+    "packet_size": 152,
+    "duration_ms": 344,
+    "protocol": "TCP"
+  },
+  {
+    "src_port": 22,
+    "dst_port": 41686,
+    "packet_size": 734,
+    "duration_ms": 59,
+    "protocol": "TCP"
+  },
+  {
+    "src_port": 22,
+    "dst_port": 26394,
+    "packet_size": 574,
+    "duration_ms": 396,
+    "protocol": "TCP"
+  },
+  {
+    "src_port": 8080,
+    "dst_port": 21309,
+    "packet_size": 958,
+    "duration_ms": 51,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 22,
+    "dst_port": 39873,
+    "packet_size": 414,
+    "duration_ms": 407,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 8080,
+    "dst_port": 15894,
+    "packet_size": 152,
+    "duration_ms": 216,
+    "protocol": "TCP"
+  },
+  {
+    "src_port": 80,
+    "dst_port": 25448,
+    "packet_size": 146,
+    "duration_ms": 113,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 8080,
+    "dst_port": 58929,
+    "packet_size": 932,
+    "duration_ms": 237,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 6666,
+    "dst_port": 356,
+    "packet_size": 5000,
+    "duration_ms": 3255,
+    "protocol": "TCP"
+  },
+  {
+    "src_port": 22,
+    "dst_port": 21787,
+    "packet_size": 457,
+    "duration_ms": 213,
+    "protocol": "TCP"
+  },
+  {
+    "src_port": 80,
+    "dst_port": 36565,
+    "packet_size": 1478,
+    "duration_ms": 146,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 443,
+    "dst_port": 34899,
+    "packet_size": 823,
+    "duration_ms": 407,
+    "protocol": "TCP"
+  },
+  {
+    "src_port": 8080,
+    "dst_port": 47602,
+    "packet_size": 951,
+    "duration_ms": 441,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 80,
+    "dst_port": 8003,
+    "packet_size": 1007,
+    "duration_ms": 240,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 80,
+    "dst_port": 12432,
+    "packet_size": 830,
+    "duration_ms": 480,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 8080,
+    "dst_port": 58482,
+    "packet_size": 937,
+    "duration_ms": 187,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 443,
+    "dst_port": 30673,
+    "packet_size": 525,
+    "duration_ms": 345,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 22,
+    "dst_port": 27776,
+    "packet_size": 824,
+    "duration_ms": 348,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 22,
+    "dst_port": 22070,
+    "packet_size": 735,
+    "duration_ms": 425,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 443,
+    "dst_port": 29542,
+    "packet_size": 1479,
+    "duration_ms": 254,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 80,
+    "dst_port": 42296,
+    "packet_size": 766,
+    "duration_ms": 491,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 8080,
+    "dst_port": 54515,
+    "packet_size": 994,
+    "duration_ms": 368,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 1337,
+    "dst_port": 806,
+    "packet_size": 0,
+    "duration_ms": 4839,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 8080,
+    "dst_port": 64456,
+    "packet_size": 344,
+    "duration_ms": 358,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 8080,
+    "dst_port": 28895,
+    "packet_size": 1414,
+    "duration_ms": 100,
+    "protocol": "TCP"
+  },
+  {
+    "src_port": 22,
+    "dst_port": 25727,
+    "packet_size": 282,
+    "duration_ms": 372,
+    "protocol": "TCP"
+  },
+  {
+    "src_port": 6666,
+    "dst_port": 342,
+    "packet_size": 5000,
+    "duration_ms": 2304,
+    "protocol": "TCP"
+  },
+  {
+    "src_port": 9999,
+    "dst_port": 585,
+    "packet_size": 10,
+    "duration_ms": 2573,
+    "protocol": "TCP"
+  },
+  {
+    "src_port": 6666,
+    "dst_port": 541,
+    "packet_size": 0,
+    "duration_ms": 2330,
+    "protocol": "TCP"
+  },
+  {
+    "src_port": 8080,
+    "dst_port": 26899,
+    "packet_size": 745,
+    "duration_ms": 236,
+    "protocol": "TCP"
+  },
+  {
+    "src_port": 8080,
+    "dst_port": 1577,
+    "packet_size": 543,
+    "duration_ms": 500,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 443,
+    "dst_port": 61062,
+    "packet_size": 327,
+    "duration_ms": 348,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 8080,
+    "dst_port": 14095,
+    "packet_size": 829,
+    "duration_ms": 317,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 22,
+    "dst_port": 43532,
+    "packet_size": 1037,
+    "duration_ms": 216,
+    "protocol": "TCP"
+  },
+  {
+    "src_port": 443,
+    "dst_port": 63718,
+    "packet_size": 851,
+    "duration_ms": 424,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 22,
+    "dst_port": 28760,
+    "packet_size": 210,
+    "duration_ms": 199,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 80,
+    "dst_port": 5597,
+    "packet_size": 1402,
+    "duration_ms": 148,
+    "protocol": "TCP"
+  },
+  {
+    "src_port": 80,
+    "dst_port": 56050,
+    "packet_size": 1277,
+    "duration_ms": 458,
+    "protocol": "TCP"
+  },
+  {
+    "src_port": 8080,
+    "dst_port": 47469,
+    "packet_size": 1276,
+    "duration_ms": 64,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 80,
+    "dst_port": 1771,
+    "packet_size": 178,
+    "duration_ms": 345,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 8080,
+    "dst_port": 32802,
+    "packet_size": 294,
+    "duration_ms": 86,
+    "protocol": "TCP"
+  },
+  {
+    "src_port": 80,
+    "dst_port": 19374,
+    "packet_size": 611,
+    "duration_ms": 180,
+    "protocol": "TCP"
+  },
+  {
+    "src_port": 22,
+    "dst_port": 2514,
+    "packet_size": 1162,
+    "duration_ms": 87,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 443,
+    "dst_port": 40294,
+    "packet_size": 853,
+    "duration_ms": 450,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 22,
+    "dst_port": 28945,
+    "packet_size": 556,
+    "duration_ms": 492,
+    "protocol": "TCP"
+  },
+  {
+    "src_port": 8080,
+    "dst_port": 35183,
+    "packet_size": 1031,
+    "duration_ms": 237,
+    "protocol": "TCP"
+  },
+  {
+    "src_port": 80,
+    "dst_port": 27924,
+    "packet_size": 477,
+    "duration_ms": 122,
+    "protocol": "TCP"
+  },
+  {
+    "src_port": 6666,
+    "dst_port": 1000,
+    "packet_size": 0,
+    "duration_ms": 2183,
+    "protocol": "TCP"
+  },
+  {
+    "src_port": 8080,
+    "dst_port": 33653,
+    "packet_size": 844,
+    "duration_ms": 332,
+    "protocol": "TCP"
+  },
+  {
+    "src_port": 443,
+    "dst_port": 14823,
+    "packet_size": 1434,
+    "duration_ms": 128,
+    "protocol": "TCP"
+  },
+  {
+    "src_port": 443,
+    "dst_port": 39007,
+    "packet_size": 214,
+    "duration_ms": 399,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 80,
+    "dst_port": 48314,
+    "packet_size": 549,
+    "duration_ms": 333,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 80,
+    "dst_port": 37046,
+    "packet_size": 1204,
+    "duration_ms": 372,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 443,
+    "dst_port": 3108,
+    "packet_size": 490,
+    "duration_ms": 213,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 6666,
+    "dst_port": 856,
+    "packet_size": 10,
+    "duration_ms": 3213,
+    "protocol": "TCP"
+  },
+  {
+    "src_port": 80,
+    "dst_port": 8070,
+    "packet_size": 650,
+    "duration_ms": 247,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 22,
+    "dst_port": 9523,
+    "packet_size": 232,
+    "duration_ms": 61,
+    "protocol": "TCP"
+  },
+  {
+    "src_port": 443,
+    "dst_port": 54248,
+    "packet_size": 856,
+    "duration_ms": 141,
+    "protocol": "TCP"
+  },
+  {
+    "src_port": 22,
+    "dst_port": 46777,
+    "packet_size": 1441,
+    "duration_ms": 371,
+    "protocol": "TCP"
+  },
+  {
+    "src_port": 8080,
+    "dst_port": 38478,
+    "packet_size": 1298,
+    "duration_ms": 60,
+    "protocol": "TCP"
+  },
+  {
+    "src_port": 443,
+    "dst_port": 54104,
+    "packet_size": 811,
+    "duration_ms": 478,
+    "protocol": "TCP"
+  },
+  {
+    "src_port": 22,
+    "dst_port": 46634,
+    "packet_size": 1232,
+    "duration_ms": 492,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 8080,
+    "dst_port": 1275,
+    "packet_size": 1237,
+    "duration_ms": 453,
+    "protocol": "TCP"
+  },
+  {
+    "src_port": 80,
+    "dst_port": 27386,
+    "packet_size": 214,
+    "duration_ms": 182,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 80,
+    "dst_port": 58541,
+    "packet_size": 912,
+    "duration_ms": 334,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 6666,
+    "dst_port": 370,
+    "packet_size": 5000,
+    "duration_ms": 3612,
+    "protocol": "TCP"
+  },
+  {
+    "src_port": 80,
+    "dst_port": 53159,
+    "packet_size": 950,
+    "duration_ms": 266,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 80,
+    "dst_port": 28092,
+    "packet_size": 259,
+    "duration_ms": 281,
+    "protocol": "TCP"
+  },
+  {
+    "src_port": 8080,
+    "dst_port": 32647,
+    "packet_size": 1229,
+    "duration_ms": 245,
+    "protocol": "TCP"
+  },
+  {
+    "src_port": 8080,
+    "dst_port": 56250,
+    "packet_size": 1444,
+    "duration_ms": 196,
+    "protocol": "TCP"
+  },
+  {
+    "src_port": 22,
+    "dst_port": 25693,
+    "packet_size": 456,
+    "duration_ms": 128,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 22,
+    "dst_port": 53597,
+    "packet_size": 1217,
+    "duration_ms": 81,
+    "protocol": "TCP"
+  },
+  {
+    "src_port": 443,
+    "dst_port": 14650,
+    "packet_size": 259,
+    "duration_ms": 460,
+    "protocol": "TCP"
+  },
+  {
+    "src_port": 443,
+    "dst_port": 25525,
+    "packet_size": 749,
+    "duration_ms": 458,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 8080,
+    "dst_port": 24086,
+    "packet_size": 1017,
+    "duration_ms": 139,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 443,
+    "dst_port": 34747,
+    "packet_size": 746,
+    "duration_ms": 95,
+    "protocol": "TCP"
+  },
+  {
+    "src_port": 8080,
+    "dst_port": 62828,
+    "packet_size": 1307,
+    "duration_ms": 182,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 80,
+    "dst_port": 64131,
+    "packet_size": 1119,
+    "duration_ms": 281,
+    "protocol": "TCP"
+  },
+  {
+    "src_port": 80,
+    "dst_port": 40886,
+    "packet_size": 475,
+    "duration_ms": 420,
+    "protocol": "TCP"
+  },
+  {
+    "src_port": 22,
+    "dst_port": 33693,
+    "packet_size": 556,
+    "duration_ms": 71,
+    "protocol": "TCP"
+  },
+  {
+    "src_port": 22,
+    "dst_port": 12189,
+    "packet_size": 1199,
+    "duration_ms": 418,
+    "protocol": "TCP"
+  },
+  {
+    "src_port": 22,
+    "dst_port": 14266,
+    "packet_size": 1286,
+    "duration_ms": 93,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 22,
+    "dst_port": 18722,
+    "packet_size": 740,
+    "duration_ms": 451,
+    "protocol": "TCP"
+  },
+  {
+    "src_port": 6666,
+    "dst_port": 312,
+    "packet_size": 0,
+    "duration_ms": 1904,
+    "protocol": "TCP"
+  },
+  {
+    "src_port": 80,
+    "dst_port": 21066,
+    "packet_size": 459,
+    "duration_ms": 390,
+    "protocol": "TCP"
+  },
+  {
+    "src_port": 22,
+    "dst_port": 37233,
+    "packet_size": 815,
+    "duration_ms": 278,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 443,
+    "dst_port": 6230,
+    "packet_size": 603,
+    "duration_ms": 213,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 80,
+    "dst_port": 55758,
+    "packet_size": 283,
+    "duration_ms": 173,
+    "protocol": "TCP"
+  },
+  {
+    "src_port": 1337,
+    "dst_port": 550,
+    "packet_size": 0,
+    "duration_ms": 2487,
+    "protocol": "TCP"
+  },
+  {
+    "src_port": 443,
+    "dst_port": 1326,
+    "packet_size": 684,
+    "duration_ms": 447,
+    "protocol": "TCP"
+  },
+  {
+    "src_port": 80,
+    "dst_port": 59672,
+    "packet_size": 202,
+    "duration_ms": 464,
+    "protocol": "TCP"
+  },
+  {
+    "src_port": 80,
+    "dst_port": 8923,
+    "packet_size": 377,
+    "duration_ms": 377,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 443,
+    "dst_port": 13683,
+    "packet_size": 310,
+    "duration_ms": 231,
+    "protocol": "TCP"
+  },
+  {
+    "src_port": 443,
+    "dst_port": 7297,
+    "packet_size": 1187,
+    "duration_ms": 279,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 80,
+    "dst_port": 13803,
+    "packet_size": 1453,
+    "duration_ms": 342,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 8080,
+    "dst_port": 6844,
+    "packet_size": 1374,
+    "duration_ms": 242,
+    "protocol": "TCP"
+  },
+  {
+    "src_port": 443,
+    "dst_port": 29854,
+    "packet_size": 1481,
+    "duration_ms": 483,
+    "protocol": "TCP"
+  },
+  {
+    "src_port": 80,
+    "dst_port": 24993,
+    "packet_size": 392,
+    "duration_ms": 263,
+    "protocol": "TCP"
+  },
+  {
+    "src_port": 8080,
+    "dst_port": 22349,
+    "packet_size": 510,
+    "duration_ms": 274,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 22,
+    "dst_port": 15070,
+    "packet_size": 1245,
+    "duration_ms": 451,
+    "protocol": "TCP"
+  },
+  {
+    "src_port": 443,
+    "dst_port": 59577,
+    "packet_size": 738,
+    "duration_ms": 358,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 8080,
+    "dst_port": 60192,
+    "packet_size": 198,
+    "duration_ms": 224,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 443,
+    "dst_port": 47658,
+    "packet_size": 676,
+    "duration_ms": 63,
+    "protocol": "TCP"
+  },
+  {
+    "src_port": 8080,
+    "dst_port": 2799,
+    "packet_size": 1115,
+    "duration_ms": 88,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 8080,
+    "dst_port": 39015,
+    "packet_size": 1453,
+    "duration_ms": 106,
+    "protocol": "TCP"
+  },
+  {
+    "src_port": 443,
+    "dst_port": 52939,
+    "packet_size": 1378,
+    "duration_ms": 143,
+    "protocol": "TCP"
+  },
+  {
+    "src_port": 8080,
+    "dst_port": 37748,
+    "packet_size": 839,
+    "duration_ms": 464,
+    "protocol": "TCP"
+  },
+  {
+    "src_port": 80,
+    "dst_port": 39066,
+    "packet_size": 1008,
+    "duration_ms": 255,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 8080,
+    "dst_port": 64043,
+    "packet_size": 180,
+    "duration_ms": 253,
+    "protocol": "TCP"
+  },
+  {
+    "src_port": 8080,
+    "dst_port": 13033,
+    "packet_size": 202,
+    "duration_ms": 335,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 22,
+    "dst_port": 43827,
+    "packet_size": 1470,
+    "duration_ms": 324,
+    "protocol": "TCP"
+  },
+  {
+    "src_port": 22,
+    "dst_port": 45240,
+    "packet_size": 1456,
+    "duration_ms": 362,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 443,
+    "dst_port": 20862,
+    "packet_size": 777,
+    "duration_ms": 77,
+    "protocol": "TCP"
+  },
+  {
+    "src_port": 80,
+    "dst_port": 16679,
+    "packet_size": 242,
+    "duration_ms": 264,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 80,
+    "dst_port": 62285,
+    "packet_size": 636,
+    "duration_ms": 498,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 8080,
+    "dst_port": 21818,
+    "packet_size": 507,
+    "duration_ms": 356,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 22,
+    "dst_port": 23611,
+    "packet_size": 1269,
+    "duration_ms": 295,
+    "protocol": "TCP"
+  },
+  {
+    "src_port": 22,
+    "dst_port": 64409,
+    "packet_size": 610,
+    "duration_ms": 95,
+    "protocol": "TCP"
+  },
+  {
+    "src_port": 443,
+    "dst_port": 34515,
+    "packet_size": 1232,
+    "duration_ms": 346,
+    "protocol": "TCP"
+  },
+  {
+    "src_port": 80,
+    "dst_port": 1879,
+    "packet_size": 184,
+    "duration_ms": 117,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 1337,
+    "dst_port": 1008,
+    "packet_size": 0,
+    "duration_ms": 4414,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 80,
+    "dst_port": 24362,
+    "packet_size": 158,
+    "duration_ms": 419,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 22,
+    "dst_port": 39557,
+    "packet_size": 917,
+    "duration_ms": 474,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 80,
+    "dst_port": 46922,
+    "packet_size": 1312,
+    "duration_ms": 268,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 9999,
+    "dst_port": 176,
+    "packet_size": 5000,
+    "duration_ms": 4769,
+    "protocol": "TCP"
+  },
+  {
+    "src_port": 443,
+    "dst_port": 57119,
+    "packet_size": 1102,
+    "duration_ms": 483,
+    "protocol": "TCP"
+  },
+  {
+    "src_port": 22,
+    "dst_port": 41484,
+    "packet_size": 378,
+    "duration_ms": 480,
+    "protocol": "TCP"
+  },
+  {
+    "src_port": 80,
+    "dst_port": 41691,
+    "packet_size": 664,
+    "duration_ms": 197,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 22,
+    "dst_port": 54605,
+    "packet_size": 676,
+    "duration_ms": 393,
+    "protocol": "TCP"
+  },
+  {
+    "src_port": 80,
+    "dst_port": 49823,
+    "packet_size": 978,
+    "duration_ms": 106,
+    "protocol": "TCP"
+  },
+  {
+    "src_port": 80,
+    "dst_port": 49223,
+    "packet_size": 308,
+    "duration_ms": 254,
+    "protocol": "TCP"
+  },
+  {
+    "src_port": 22,
+    "dst_port": 11248,
+    "packet_size": 602,
+    "duration_ms": 428,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 443,
+    "dst_port": 47265,
+    "packet_size": 1199,
+    "duration_ms": 179,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 1337,
+    "dst_port": 452,
+    "packet_size": 10,
+    "duration_ms": 3419,
+    "protocol": "TCP"
+  },
+  {
+    "src_port": 8080,
+    "dst_port": 55599,
+    "packet_size": 1028,
+    "duration_ms": 315,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 22,
+    "dst_port": 38732,
+    "packet_size": 897,
+    "duration_ms": 466,
+    "protocol": "TCP"
+  },
+  {
+    "src_port": 80,
+    "dst_port": 11372,
+    "packet_size": 1041,
+    "duration_ms": 268,
+    "protocol": "TCP"
+  },
+  {
+    "src_port": 443,
+    "dst_port": 32315,
+    "packet_size": 402,
+    "duration_ms": 358,
+    "protocol": "TCP"
+  },
+  {
+    "src_port": 8080,
+    "dst_port": 49915,
+    "packet_size": 1032,
+    "duration_ms": 404,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 22,
+    "dst_port": 42394,
+    "packet_size": 209,
+    "duration_ms": 210,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 80,
+    "dst_port": 55026,
+    "packet_size": 1100,
+    "duration_ms": 431,
+    "protocol": "TCP"
+  },
+  {
+    "src_port": 443,
+    "dst_port": 24552,
+    "packet_size": 630,
+    "duration_ms": 438,
+    "protocol": "TCP"
+  },
+  {
+    "src_port": 8080,
+    "dst_port": 1127,
+    "packet_size": 669,
+    "duration_ms": 317,
+    "protocol": "TCP"
+  },
+  {
+    "src_port": 8080,
+    "dst_port": 1398,
+    "packet_size": 1359,
+    "duration_ms": 334,
+    "protocol": "TCP"
+  },
+  {
+    "src_port": 8080,
+    "dst_port": 14105,
+    "packet_size": 479,
+    "duration_ms": 397,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 8080,
+    "dst_port": 57323,
+    "packet_size": 1370,
+    "duration_ms": 213,
+    "protocol": "TCP"
+  },
+  {
+    "src_port": 443,
+    "dst_port": 10110,
+    "packet_size": 778,
+    "duration_ms": 366,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 443,
+    "dst_port": 56123,
+    "packet_size": 131,
+    "duration_ms": 69,
+    "protocol": "TCP"
+  },
+  {
+    "src_port": 8080,
+    "dst_port": 65321,
+    "packet_size": 1253,
+    "duration_ms": 230,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 22,
+    "dst_port": 29669,
+    "packet_size": 1386,
+    "duration_ms": 269,
+    "protocol": "TCP"
+  },
+  {
+    "src_port": 80,
+    "dst_port": 16474,
+    "packet_size": 453,
+    "duration_ms": 154,
+    "protocol": "TCP"
+  },
+  {
+    "src_port": 22,
+    "dst_port": 9641,
+    "packet_size": 727,
+    "duration_ms": 117,
+    "protocol": "TCP"
+  },
+  {
+    "src_port": 8080,
+    "dst_port": 1408,
+    "packet_size": 460,
+    "duration_ms": 171,
+    "protocol": "TCP"
+  },
+  {
+    "src_port": 1337,
+    "dst_port": 433,
+    "packet_size": 5000,
+    "duration_ms": 2761,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 8080,
+    "dst_port": 64168,
+    "packet_size": 428,
+    "duration_ms": 179,
+    "protocol": "TCP"
+  },
+  {
+    "src_port": 8080,
+    "dst_port": 39786,
+    "packet_size": 627,
+    "duration_ms": 408,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 8080,
+    "dst_port": 26151,
+    "packet_size": 420,
+    "duration_ms": 451,
+    "protocol": "TCP"
+  },
+  {
+    "src_port": 22,
+    "dst_port": 2006,
+    "packet_size": 153,
+    "duration_ms": 167,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 1337,
+    "dst_port": 582,
+    "packet_size": 10,
+    "duration_ms": 4989,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 8080,
+    "dst_port": 13247,
+    "packet_size": 397,
+    "duration_ms": 474,
+    "protocol": "TCP"
+  },
+  {
+    "src_port": 443,
+    "dst_port": 29467,
+    "packet_size": 204,
+    "duration_ms": 346,
+    "protocol": "TCP"
+  },
+  {
+    "src_port": 8080,
+    "dst_port": 11895,
+    "packet_size": 1472,
+    "duration_ms": 94,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 6666,
+    "dst_port": 953,
+    "packet_size": 10,
+    "duration_ms": 1845,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 9999,
+    "dst_port": 197,
+    "packet_size": 5000,
+    "duration_ms": 2407,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 22,
+    "dst_port": 46031,
+    "packet_size": 1086,
+    "duration_ms": 362,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 8080,
+    "dst_port": 39180,
+    "packet_size": 1290,
+    "duration_ms": 376,
+    "protocol": "TCP"
+  },
+  {
+    "src_port": 80,
+    "dst_port": 62684,
+    "packet_size": 794,
+    "duration_ms": 326,
+    "protocol": "TCP"
+  },
+  {
+    "src_port": 6666,
+    "dst_port": 180,
+    "packet_size": 5000,
+    "duration_ms": 4749,
+    "protocol": "TCP"
+  },
+  {
+    "src_port": 443,
+    "dst_port": 46000,
+    "packet_size": 1470,
+    "duration_ms": 332,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 8080,
+    "dst_port": 27999,
+    "packet_size": 995,
+    "duration_ms": 378,
+    "protocol": "TCP"
+  },
+  {
+    "src_port": 6666,
+    "dst_port": 535,
+    "packet_size": 10,
+    "duration_ms": 4769,
+    "protocol": "TCP"
+  },
+  {
+    "src_port": 443,
+    "dst_port": 45175,
+    "packet_size": 646,
+    "duration_ms": 205,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 22,
+    "dst_port": 24663,
+    "packet_size": 1144,
+    "duration_ms": 491,
+    "protocol": "TCP"
+  },
+  {
+    "src_port": 22,
+    "dst_port": 15133,
+    "packet_size": 1405,
+    "duration_ms": 483,
+    "protocol": "TCP"
+  },
+  {
+    "src_port": 22,
+    "dst_port": 54240,
+    "packet_size": 1108,
+    "duration_ms": 169,
+    "protocol": "TCP"
+  },
+  {
+    "src_port": 6666,
+    "dst_port": 604,
+    "packet_size": 5000,
+    "duration_ms": 3746,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 80,
+    "dst_port": 48545,
+    "packet_size": 625,
+    "duration_ms": 117,
+    "protocol": "TCP"
+  },
+  {
+    "src_port": 22,
+    "dst_port": 52648,
+    "packet_size": 957,
+    "duration_ms": 445,
+    "protocol": "TCP"
+  },
+  {
+    "src_port": 8080,
+    "dst_port": 44168,
+    "packet_size": 1299,
+    "duration_ms": 460,
+    "protocol": "TCP"
+  },
+  {
+    "src_port": 8080,
+    "dst_port": 10434,
+    "packet_size": 272,
+    "duration_ms": 282,
+    "protocol": "TCP"
+  },
+  {
+    "src_port": 80,
+    "dst_port": 33428,
+    "packet_size": 490,
+    "duration_ms": 390,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 6666,
+    "dst_port": 118,
+    "packet_size": 0,
+    "duration_ms": 3612,
+    "protocol": "TCP"
+  },
+  {
+    "src_port": 8080,
+    "dst_port": 42361,
+    "packet_size": 970,
+    "duration_ms": 53,
+    "protocol": "TCP"
+  },
+  {
+    "src_port": 22,
+    "dst_port": 31225,
+    "packet_size": 1228,
+    "duration_ms": 198,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 22,
+    "dst_port": 25394,
+    "packet_size": 1000,
+    "duration_ms": 280,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 80,
+    "dst_port": 17482,
+    "packet_size": 475,
+    "duration_ms": 328,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 8080,
+    "dst_port": 19297,
+    "packet_size": 378,
+    "duration_ms": 55,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 22,
+    "dst_port": 3120,
+    "packet_size": 1227,
+    "duration_ms": 308,
+    "protocol": "TCP"
+  },
+  {
+    "src_port": 8080,
+    "dst_port": 52762,
+    "packet_size": 1197,
+    "duration_ms": 435,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 6666,
+    "dst_port": 343,
+    "packet_size": 10,
+    "duration_ms": 3495,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 80,
+    "dst_port": 46151,
+    "packet_size": 1225,
+    "duration_ms": 413,
+    "protocol": "TCP"
+  },
+  {
+    "src_port": 443,
+    "dst_port": 5588,
+    "packet_size": 1163,
+    "duration_ms": 267,
+    "protocol": "TCP"
+  },
+  {
+    "src_port": 443,
+    "dst_port": 46877,
+    "packet_size": 262,
+    "duration_ms": 230,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 1337,
+    "dst_port": 388,
+    "packet_size": 5000,
+    "duration_ms": 3713,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 22,
+    "dst_port": 8716,
+    "packet_size": 1086,
+    "duration_ms": 380,
+    "protocol": "TCP"
+  },
+  {
+    "src_port": 80,
+    "dst_port": 61715,
+    "packet_size": 1061,
+    "duration_ms": 95,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 8080,
+    "dst_port": 41694,
+    "packet_size": 457,
+    "duration_ms": 179,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 80,
+    "dst_port": 55330,
+    "packet_size": 410,
+    "duration_ms": 322,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 80,
+    "dst_port": 53287,
+    "packet_size": 674,
+    "duration_ms": 341,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 22,
+    "dst_port": 8783,
+    "packet_size": 528,
+    "duration_ms": 190,
+    "protocol": "TCP"
+  },
+  {
+    "src_port": 22,
+    "dst_port": 63302,
+    "packet_size": 1498,
+    "duration_ms": 439,
+    "protocol": "TCP"
+  },
+  {
+    "src_port": 80,
+    "dst_port": 59397,
+    "packet_size": 760,
+    "duration_ms": 184,
+    "protocol": "TCP"
+  },
+  {
+    "src_port": 22,
+    "dst_port": 63858,
+    "packet_size": 835,
+    "duration_ms": 217,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 8080,
+    "dst_port": 32664,
+    "packet_size": 1389,
+    "duration_ms": 236,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 8080,
+    "dst_port": 36711,
+    "packet_size": 623,
+    "duration_ms": 217,
+    "protocol": "TCP"
+  },
+  {
+    "src_port": 80,
+    "dst_port": 59933,
+    "packet_size": 751,
+    "duration_ms": 186,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 22,
+    "dst_port": 37502,
+    "packet_size": 762,
+    "duration_ms": 464,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 6666,
+    "dst_port": 113,
+    "packet_size": 5000,
+    "duration_ms": 2652,
+    "protocol": "TCP"
+  },
+  {
+    "src_port": 443,
+    "dst_port": 59862,
+    "packet_size": 1315,
+    "duration_ms": 415,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 443,
+    "dst_port": 32616,
+    "packet_size": 138,
+    "duration_ms": 245,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 80,
+    "dst_port": 44994,
+    "packet_size": 164,
+    "duration_ms": 499,
+    "protocol": "TCP"
+  },
+  {
+    "src_port": 8080,
+    "dst_port": 46156,
+    "packet_size": 965,
+    "duration_ms": 257,
+    "protocol": "TCP"
+  },
+  {
+    "src_port": 80,
+    "dst_port": 61354,
+    "packet_size": 391,
+    "duration_ms": 310,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 443,
+    "dst_port": 24650,
+    "packet_size": 1094,
+    "duration_ms": 168,
+    "protocol": "TCP"
+  },
+  {
+    "src_port": 22,
+    "dst_port": 24909,
+    "packet_size": 1093,
+    "duration_ms": 460,
+    "protocol": "TCP"
+  },
+  {
+    "src_port": 80,
+    "dst_port": 43477,
+    "packet_size": 282,
+    "duration_ms": 299,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 22,
+    "dst_port": 23058,
+    "packet_size": 840,
+    "duration_ms": 65,
+    "protocol": "TCP"
+  },
+  {
+    "src_port": 22,
+    "dst_port": 3698,
+    "packet_size": 1333,
+    "duration_ms": 350,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 22,
+    "dst_port": 24193,
+    "packet_size": 370,
+    "duration_ms": 407,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 80,
+    "dst_port": 51614,
+    "packet_size": 539,
+    "duration_ms": 489,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 8080,
+    "dst_port": 11200,
+    "packet_size": 1255,
+    "duration_ms": 319,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 8080,
+    "dst_port": 29639,
+    "packet_size": 245,
+    "duration_ms": 302,
+    "protocol": "TCP"
+  },
+  {
+    "src_port": 8080,
+    "dst_port": 46369,
+    "packet_size": 1058,
+    "duration_ms": 484,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 8080,
+    "dst_port": 41645,
+    "packet_size": 1376,
+    "duration_ms": 159,
+    "protocol": "TCP"
+  },
+  {
+    "src_port": 22,
+    "dst_port": 53672,
+    "packet_size": 491,
+    "duration_ms": 499,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 443,
+    "dst_port": 20260,
+    "packet_size": 738,
+    "duration_ms": 190,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 8080,
+    "dst_port": 13013,
+    "packet_size": 135,
+    "duration_ms": 418,
+    "protocol": "TCP"
+  },
+  {
+    "src_port": 443,
+    "dst_port": 38014,
+    "packet_size": 1287,
+    "duration_ms": 122,
+    "protocol": "TCP"
+  },
+  {
+    "src_port": 80,
+    "dst_port": 35882,
+    "packet_size": 906,
+    "duration_ms": 309,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 8080,
+    "dst_port": 4782,
+    "packet_size": 480,
+    "duration_ms": 123,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 22,
+    "dst_port": 12429,
+    "packet_size": 311,
+    "duration_ms": 269,
+    "protocol": "TCP"
+  },
+  {
+    "src_port": 9999,
+    "dst_port": 138,
+    "packet_size": 10,
+    "duration_ms": 3794,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 9999,
+    "dst_port": 684,
+    "packet_size": 10,
+    "duration_ms": 3240,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 443,
+    "dst_port": 9038,
+    "packet_size": 1364,
+    "duration_ms": 310,
+    "protocol": "TCP"
+  },
+  {
+    "src_port": 22,
+    "dst_port": 17814,
+    "packet_size": 473,
+    "duration_ms": 324,
+    "protocol": "TCP"
+  },
+  {
+    "src_port": 443,
+    "dst_port": 11593,
+    "packet_size": 425,
+    "duration_ms": 284,
+    "protocol": "TCP"
+  },
+  {
+    "src_port": 443,
+    "dst_port": 8567,
+    "packet_size": 754,
+    "duration_ms": 289,
+    "protocol": "TCP"
+  },
+  {
+    "src_port": 22,
+    "dst_port": 10569,
+    "packet_size": 1483,
+    "duration_ms": 119,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 8080,
+    "dst_port": 15268,
+    "packet_size": 826,
+    "duration_ms": 464,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 443,
+    "dst_port": 5041,
+    "packet_size": 1004,
+    "duration_ms": 146,
+    "protocol": "TCP"
+  },
+  {
+    "src_port": 22,
+    "dst_port": 38660,
+    "packet_size": 477,
+    "duration_ms": 317,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 80,
+    "dst_port": 29510,
+    "packet_size": 1386,
+    "duration_ms": 480,
+    "protocol": "TCP"
+  },
+  {
+    "src_port": 443,
+    "dst_port": 14335,
+    "packet_size": 628,
+    "duration_ms": 241,
+    "protocol": "TCP"
+  },
+  {
+    "src_port": 8080,
+    "dst_port": 26854,
+    "packet_size": 997,
+    "duration_ms": 319,
+    "protocol": "TCP"
+  },
+  {
+    "src_port": 443,
+    "dst_port": 61506,
+    "packet_size": 429,
+    "duration_ms": 247,
+    "protocol": "TCP"
+  },
+  {
+    "src_port": 8080,
+    "dst_port": 29150,
+    "packet_size": 1480,
+    "duration_ms": 169,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 80,
+    "dst_port": 30002,
+    "packet_size": 794,
+    "duration_ms": 481,
+    "protocol": "TCP"
+  },
+  {
+    "src_port": 80,
+    "dst_port": 53570,
+    "packet_size": 466,
+    "duration_ms": 351,
+    "protocol": "TCP"
+  },
+  {
+    "src_port": 22,
+    "dst_port": 35169,
+    "packet_size": 1452,
+    "duration_ms": 413,
+    "protocol": "TCP"
+  },
+  {
+    "src_port": 443,
+    "dst_port": 27673,
+    "packet_size": 423,
+    "duration_ms": 401,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 80,
+    "dst_port": 57846,
+    "packet_size": 1198,
+    "duration_ms": 363,
+    "protocol": "TCP"
+  },
+  {
+    "src_port": 22,
+    "dst_port": 7796,
+    "packet_size": 1038,
+    "duration_ms": 485,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 80,
+    "dst_port": 37321,
+    "packet_size": 843,
+    "duration_ms": 153,
+    "protocol": "TCP"
+  },
+  {
+    "src_port": 443,
+    "dst_port": 19901,
+    "packet_size": 1369,
+    "duration_ms": 205,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 80,
+    "dst_port": 29207,
+    "packet_size": 600,
+    "duration_ms": 138,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 80,
+    "dst_port": 27804,
+    "packet_size": 1419,
+    "duration_ms": 303,
+    "protocol": "TCP"
+  },
+  {
+    "src_port": 22,
+    "dst_port": 44056,
+    "packet_size": 481,
+    "duration_ms": 281,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 443,
+    "dst_port": 57502,
+    "packet_size": 805,
+    "duration_ms": 417,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 22,
+    "dst_port": 62736,
+    "packet_size": 1084,
+    "duration_ms": 128,
+    "protocol": "TCP"
+  },
+  {
+    "src_port": 22,
+    "dst_port": 39989,
+    "packet_size": 781,
+    "duration_ms": 82,
+    "protocol": "TCP"
+  },
+  {
+    "src_port": 22,
+    "dst_port": 38735,
+    "packet_size": 1195,
+    "duration_ms": 395,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 8080,
+    "dst_port": 58590,
+    "packet_size": 1011,
+    "duration_ms": 91,
+    "protocol": "TCP"
+  },
+  {
+    "src_port": 8080,
+    "dst_port": 51478,
+    "packet_size": 112,
+    "duration_ms": 296,
+    "protocol": "TCP"
+  },
+  {
+    "src_port": 80,
+    "dst_port": 10703,
+    "packet_size": 166,
+    "duration_ms": 77,
+    "protocol": "TCP"
+  },
+  {
+    "src_port": 1337,
+    "dst_port": 294,
+    "packet_size": 10,
+    "duration_ms": 4382,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 443,
+    "dst_port": 17580,
+    "packet_size": 173,
+    "duration_ms": 399,
+    "protocol": "TCP"
+  },
+  {
+    "src_port": 22,
+    "dst_port": 58769,
+    "packet_size": 390,
+    "duration_ms": 416,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 22,
+    "dst_port": 34308,
+    "packet_size": 1085,
+    "duration_ms": 248,
+    "protocol": "TCP"
+  },
+  {
+    "src_port": 8080,
+    "dst_port": 29967,
+    "packet_size": 689,
+    "duration_ms": 69,
+    "protocol": "TCP"
+  },
+  {
+    "src_port": 8080,
+    "dst_port": 11839,
+    "packet_size": 1134,
+    "duration_ms": 280,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 443,
+    "dst_port": 31396,
+    "packet_size": 817,
+    "duration_ms": 196,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 443,
+    "dst_port": 53501,
+    "packet_size": 687,
+    "duration_ms": 388,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 80,
+    "dst_port": 2761,
+    "packet_size": 739,
+    "duration_ms": 257,
+    "protocol": "TCP"
+  },
+  {
+    "src_port": 443,
+    "dst_port": 30472,
+    "packet_size": 908,
+    "duration_ms": 368,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 443,
+    "dst_port": 24775,
+    "packet_size": 1241,
+    "duration_ms": 281,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 9999,
+    "dst_port": 178,
+    "packet_size": 5000,
+    "duration_ms": 1499,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 8080,
+    "dst_port": 26574,
+    "packet_size": 925,
+    "duration_ms": 363,
+    "protocol": "TCP"
+  },
+  {
+    "src_port": 22,
+    "dst_port": 14848,
+    "packet_size": 1223,
+    "duration_ms": 195,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 80,
+    "dst_port": 36557,
+    "packet_size": 1346,
+    "duration_ms": 56,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 443,
+    "dst_port": 13054,
+    "packet_size": 1467,
+    "duration_ms": 162,
+    "protocol": "TCP"
+  },
+  {
+    "src_port": 8080,
+    "dst_port": 24895,
+    "packet_size": 353,
+    "duration_ms": 358,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 22,
+    "dst_port": 37616,
+    "packet_size": 1448,
+    "duration_ms": 367,
+    "protocol": "TCP"
+  },
+  {
+    "src_port": 22,
+    "dst_port": 16184,
+    "packet_size": 1408,
+    "duration_ms": 172,
+    "protocol": "TCP"
+  },
+  {
+    "src_port": 22,
+    "dst_port": 36229,
+    "packet_size": 451,
+    "duration_ms": 385,
+    "protocol": "TCP"
+  },
+  {
+    "src_port": 443,
+    "dst_port": 14980,
+    "packet_size": 1369,
+    "duration_ms": 467,
+    "protocol": "TCP"
+  },
+  {
+    "src_port": 443,
+    "dst_port": 39968,
+    "packet_size": 257,
+    "duration_ms": 50,
+    "protocol": "TCP"
+  },
+  {
+    "src_port": 6666,
+    "dst_port": 645,
+    "packet_size": 0,
+    "duration_ms": 3125,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 443,
+    "dst_port": 23413,
+    "packet_size": 224,
+    "duration_ms": 234,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 22,
+    "dst_port": 60342,
+    "packet_size": 271,
+    "duration_ms": 349,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 443,
+    "dst_port": 41634,
+    "packet_size": 805,
+    "duration_ms": 402,
+    "protocol": "TCP"
+  },
+  {
+    "src_port": 22,
+    "dst_port": 62585,
+    "packet_size": 737,
+    "duration_ms": 51,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 8080,
+    "dst_port": 10152,
+    "packet_size": 836,
+    "duration_ms": 292,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 80,
+    "dst_port": 8395,
+    "packet_size": 130,
+    "duration_ms": 371,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 8080,
+    "dst_port": 49531,
+    "packet_size": 1261,
+    "duration_ms": 249,
+    "protocol": "TCP"
+  },
+  {
+    "src_port": 443,
+    "dst_port": 25957,
+    "packet_size": 1336,
+    "duration_ms": 417,
+    "protocol": "TCP"
+  },
+  {
+    "src_port": 22,
+    "dst_port": 60645,
+    "packet_size": 1101,
+    "duration_ms": 423,
+    "protocol": "TCP"
+  },
+  {
+    "src_port": 443,
+    "dst_port": 29602,
+    "packet_size": 869,
+    "duration_ms": 389,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 8080,
+    "dst_port": 2548,
+    "packet_size": 308,
+    "duration_ms": 172,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 22,
+    "dst_port": 11012,
+    "packet_size": 604,
+    "duration_ms": 480,
+    "protocol": "TCP"
+  },
+  {
+    "src_port": 443,
+    "dst_port": 40393,
+    "packet_size": 349,
+    "duration_ms": 376,
+    "protocol": "TCP"
+  },
+  {
+    "src_port": 8080,
+    "dst_port": 3964,
+    "packet_size": 1467,
+    "duration_ms": 469,
+    "protocol": "TCP"
+  },
+  {
+    "src_port": 1337,
+    "dst_port": 670,
+    "packet_size": 10,
+    "duration_ms": 2413,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 443,
+    "dst_port": 52555,
+    "packet_size": 1048,
+    "duration_ms": 370,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 80,
+    "dst_port": 14547,
+    "packet_size": 922,
+    "duration_ms": 106,
+    "protocol": "TCP"
+  },
+  {
+    "src_port": 9999,
+    "dst_port": 50,
+    "packet_size": 0,
+    "duration_ms": 2640,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 22,
+    "dst_port": 31885,
+    "packet_size": 1047,
+    "duration_ms": 242,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 443,
+    "dst_port": 5325,
+    "packet_size": 488,
+    "duration_ms": 98,
+    "protocol": "TCP"
+  },
+  {
+    "src_port": 443,
+    "dst_port": 51728,
+    "packet_size": 285,
+    "duration_ms": 68,
+    "protocol": "TCP"
+  },
+  {
+    "src_port": 8080,
+    "dst_port": 27514,
+    "packet_size": 1370,
+    "duration_ms": 496,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 8080,
+    "dst_port": 1558,
+    "packet_size": 470,
+    "duration_ms": 370,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 22,
+    "dst_port": 36273,
+    "packet_size": 962,
+    "duration_ms": 176,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 80,
+    "dst_port": 24268,
+    "packet_size": 1202,
+    "duration_ms": 234,
+    "protocol": "TCP"
+  },
+  {
+    "src_port": 443,
+    "dst_port": 20533,
+    "packet_size": 126,
+    "duration_ms": 242,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 22,
+    "dst_port": 28526,
+    "packet_size": 653,
+    "duration_ms": 204,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 9999,
+    "dst_port": 464,
+    "packet_size": 5000,
+    "duration_ms": 4846,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 8080,
+    "dst_port": 16028,
+    "packet_size": 1329,
+    "duration_ms": 201,
+    "protocol": "TCP"
+  },
+  {
+    "src_port": 22,
+    "dst_port": 63367,
+    "packet_size": 882,
+    "duration_ms": 95,
+    "protocol": "TCP"
+  },
+  {
+    "src_port": 9999,
+    "dst_port": 484,
+    "packet_size": 0,
+    "duration_ms": 4486,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 8080,
+    "dst_port": 60427,
+    "packet_size": 1338,
+    "duration_ms": 137,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 22,
+    "dst_port": 36527,
+    "packet_size": 174,
+    "duration_ms": 113,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 443,
+    "dst_port": 11611,
+    "packet_size": 769,
+    "duration_ms": 430,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 443,
+    "dst_port": 19622,
+    "packet_size": 1125,
+    "duration_ms": 224,
+    "protocol": "TCP"
+  },
+  {
+    "src_port": 443,
+    "dst_port": 57861,
+    "packet_size": 115,
+    "duration_ms": 322,
+    "protocol": "TCP"
+  },
+  {
+    "src_port": 443,
+    "dst_port": 9368,
+    "packet_size": 925,
+    "duration_ms": 320,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 80,
+    "dst_port": 56431,
+    "packet_size": 1388,
+    "duration_ms": 182,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 80,
+    "dst_port": 43472,
+    "packet_size": 1373,
+    "duration_ms": 378,
+    "protocol": "TCP"
+  },
+  {
+    "src_port": 443,
+    "dst_port": 31021,
+    "packet_size": 481,
+    "duration_ms": 228,
+    "protocol": "TCP"
+  },
+  {
+    "src_port": 22,
+    "dst_port": 33454,
+    "packet_size": 929,
+    "duration_ms": 90,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 22,
+    "dst_port": 33215,
+    "packet_size": 835,
+    "duration_ms": 196,
+    "protocol": "TCP"
+  },
+  {
+    "src_port": 80,
+    "dst_port": 3901,
+    "packet_size": 1472,
+    "duration_ms": 129,
+    "protocol": "TCP"
+  },
+  {
+    "src_port": 1337,
+    "dst_port": 782,
+    "packet_size": 10,
+    "duration_ms": 2565,
+    "protocol": "TCP"
+  },
+  {
+    "src_port": 80,
+    "dst_port": 50952,
+    "packet_size": 1191,
+    "duration_ms": 408,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 8080,
+    "dst_port": 3240,
+    "packet_size": 307,
+    "duration_ms": 431,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 443,
+    "dst_port": 43886,
+    "packet_size": 676,
+    "duration_ms": 483,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 22,
+    "dst_port": 14965,
+    "packet_size": 201,
+    "duration_ms": 370,
+    "protocol": "TCP"
+  },
+  {
+    "src_port": 80,
+    "dst_port": 18712,
+    "packet_size": 1481,
+    "duration_ms": 167,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 80,
+    "dst_port": 16774,
+    "packet_size": 630,
+    "duration_ms": 424,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 1337,
+    "dst_port": 652,
+    "packet_size": 0,
+    "duration_ms": 4631,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 22,
+    "dst_port": 60087,
+    "packet_size": 743,
+    "duration_ms": 240,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 22,
+    "dst_port": 55821,
+    "packet_size": 678,
+    "duration_ms": 110,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 443,
+    "dst_port": 46777,
+    "packet_size": 500,
+    "duration_ms": 206,
+    "protocol": "TCP"
+  },
+  {
+    "src_port": 22,
+    "dst_port": 41349,
+    "packet_size": 563,
+    "duration_ms": 76,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 80,
+    "dst_port": 3012,
+    "packet_size": 1221,
+    "duration_ms": 359,
+    "protocol": "TCP"
+  },
+  {
+    "src_port": 443,
+    "dst_port": 52213,
+    "packet_size": 1325,
+    "duration_ms": 147,
+    "protocol": "TCP"
+  },
+  {
+    "src_port": 22,
+    "dst_port": 56376,
+    "packet_size": 651,
+    "duration_ms": 428,
+    "protocol": "TCP"
+  },
+  {
+    "src_port": 443,
+    "dst_port": 24087,
+    "packet_size": 699,
+    "duration_ms": 135,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 22,
+    "dst_port": 48002,
+    "packet_size": 991,
+    "duration_ms": 348,
+    "protocol": "TCP"
+  },
+  {
+    "src_port": 443,
+    "dst_port": 29589,
+    "packet_size": 1388,
+    "duration_ms": 199,
+    "protocol": "TCP"
+  },
+  {
+    "src_port": 8080,
+    "dst_port": 20903,
+    "packet_size": 571,
+    "duration_ms": 445,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 80,
+    "dst_port": 50435,
+    "packet_size": 1156,
+    "duration_ms": 307,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 80,
+    "dst_port": 43397,
+    "packet_size": 927,
+    "duration_ms": 295,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 22,
+    "dst_port": 31046,
+    "packet_size": 683,
+    "duration_ms": 251,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 80,
+    "dst_port": 43780,
+    "packet_size": 1227,
+    "duration_ms": 408,
+    "protocol": "TCP"
+  },
+  {
+    "src_port": 1337,
+    "dst_port": 84,
+    "packet_size": 0,
+    "duration_ms": 1574,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 80,
+    "dst_port": 35401,
+    "packet_size": 281,
+    "duration_ms": 273,
+    "protocol": "TCP"
+  },
+  {
+    "src_port": 80,
+    "dst_port": 38593,
+    "packet_size": 693,
+    "duration_ms": 375,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 8080,
+    "dst_port": 45787,
+    "packet_size": 1449,
+    "duration_ms": 391,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 443,
+    "dst_port": 26363,
+    "packet_size": 689,
+    "duration_ms": 242,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 80,
+    "dst_port": 45935,
+    "packet_size": 434,
+    "duration_ms": 151,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 443,
+    "dst_port": 41026,
+    "packet_size": 437,
+    "duration_ms": 136,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 80,
+    "dst_port": 7480,
+    "packet_size": 747,
+    "duration_ms": 129,
+    "protocol": "TCP"
+  },
+  {
+    "src_port": 22,
+    "dst_port": 36944,
+    "packet_size": 326,
+    "duration_ms": 241,
+    "protocol": "TCP"
+  },
+  {
+    "src_port": 8080,
+    "dst_port": 20784,
+    "packet_size": 1066,
+    "duration_ms": 253,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 443,
+    "dst_port": 8526,
+    "packet_size": 770,
+    "duration_ms": 279,
+    "protocol": "TCP"
+  },
+  {
+    "src_port": 1337,
+    "dst_port": 109,
+    "packet_size": 0,
+    "duration_ms": 2635,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 1337,
+    "dst_port": 948,
+    "packet_size": 5000,
+    "duration_ms": 3588,
+    "protocol": "TCP"
+  },
+  {
+    "src_port": 80,
+    "dst_port": 38115,
+    "packet_size": 1425,
+    "duration_ms": 262,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 22,
+    "dst_port": 22841,
+    "packet_size": 542,
+    "duration_ms": 437,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 22,
+    "dst_port": 9360,
+    "packet_size": 1238,
+    "duration_ms": 76,
+    "protocol": "TCP"
+  },
+  {
+    "src_port": 443,
+    "dst_port": 50755,
+    "packet_size": 320,
+    "duration_ms": 206,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 22,
+    "dst_port": 31359,
+    "packet_size": 1452,
+    "duration_ms": 232,
+    "protocol": "TCP"
+  },
+  {
+    "src_port": 1337,
+    "dst_port": 652,
+    "packet_size": 10,
+    "duration_ms": 2103,
+    "protocol": "TCP"
+  },
+  {
+    "src_port": 443,
+    "dst_port": 61333,
+    "packet_size": 510,
+    "duration_ms": 132,
+    "protocol": "TCP"
+  },
+  {
+    "src_port": 22,
+    "dst_port": 29288,
+    "packet_size": 788,
+    "duration_ms": 313,
+    "protocol": "TCP"
+  },
+  {
+    "src_port": 80,
+    "dst_port": 5090,
+    "packet_size": 794,
+    "duration_ms": 59,
+    "protocol": "TCP"
+  },
+  {
+    "src_port": 443,
+    "dst_port": 41605,
+    "packet_size": 1235,
+    "duration_ms": 419,
+    "protocol": "TCP"
+  },
+  {
+    "src_port": 22,
+    "dst_port": 52797,
+    "packet_size": 672,
+    "duration_ms": 298,
+    "protocol": "TCP"
+  },
+  {
+    "src_port": 8080,
+    "dst_port": 18829,
+    "packet_size": 862,
+    "duration_ms": 367,
+    "protocol": "TCP"
+  },
+  {
+    "src_port": 443,
+    "dst_port": 37294,
+    "packet_size": 1251,
+    "duration_ms": 239,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 80,
+    "dst_port": 33680,
+    "packet_size": 748,
+    "duration_ms": 73,
+    "protocol": "TCP"
+  },
+  {
+    "src_port": 22,
+    "dst_port": 34827,
+    "packet_size": 719,
+    "duration_ms": 231,
+    "protocol": "TCP"
+  },
+  {
+    "src_port": 80,
+    "dst_port": 46931,
+    "packet_size": 251,
+    "duration_ms": 98,
+    "protocol": "TCP"
+  },
+  {
+    "src_port": 22,
+    "dst_port": 20559,
+    "packet_size": 523,
+    "duration_ms": 172,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 8080,
+    "dst_port": 64981,
+    "packet_size": 267,
+    "duration_ms": 485,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 80,
+    "dst_port": 35321,
+    "packet_size": 877,
+    "duration_ms": 175,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 22,
+    "dst_port": 2453,
+    "packet_size": 1184,
+    "duration_ms": 427,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 22,
+    "dst_port": 20759,
+    "packet_size": 465,
+    "duration_ms": 91,
+    "protocol": "TCP"
+  },
+  {
+    "src_port": 443,
+    "dst_port": 64299,
+    "packet_size": 119,
+    "duration_ms": 157,
+    "protocol": "TCP"
+  },
+  {
+    "src_port": 443,
+    "dst_port": 31864,
+    "packet_size": 968,
+    "duration_ms": 147,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 443,
+    "dst_port": 32025,
+    "packet_size": 844,
+    "duration_ms": 295,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 8080,
+    "dst_port": 58074,
+    "packet_size": 1175,
+    "duration_ms": 136,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 22,
+    "dst_port": 9938,
+    "packet_size": 1353,
+    "duration_ms": 243,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 8080,
+    "dst_port": 58180,
+    "packet_size": 418,
+    "duration_ms": 129,
+    "protocol": "TCP"
+  },
+  {
+    "src_port": 1337,
+    "dst_port": 989,
+    "packet_size": 10,
+    "duration_ms": 2512,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 22,
+    "dst_port": 5329,
+    "packet_size": 313,
+    "duration_ms": 272,
+    "protocol": "TCP"
+  },
+  {
+    "src_port": 80,
+    "dst_port": 56060,
+    "packet_size": 663,
+    "duration_ms": 441,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 8080,
+    "dst_port": 19473,
+    "packet_size": 319,
+    "duration_ms": 147,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 8080,
+    "dst_port": 43291,
+    "packet_size": 1445,
+    "duration_ms": 77,
+    "protocol": "TCP"
+  },
+  {
+    "src_port": 80,
+    "dst_port": 15438,
+    "packet_size": 925,
+    "duration_ms": 451,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 443,
+    "dst_port": 17074,
+    "packet_size": 1185,
+    "duration_ms": 350,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 8080,
+    "dst_port": 61174,
+    "packet_size": 1352,
+    "duration_ms": 123,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 8080,
+    "dst_port": 43821,
+    "packet_size": 1287,
+    "duration_ms": 86,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 22,
+    "dst_port": 37862,
+    "packet_size": 1318,
+    "duration_ms": 69,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 443,
+    "dst_port": 6772,
+    "packet_size": 612,
+    "duration_ms": 85,
+    "protocol": "TCP"
+  },
+  {
+    "src_port": 443,
+    "dst_port": 14922,
+    "packet_size": 220,
+    "duration_ms": 156,
+    "protocol": "TCP"
+  },
+  {
+    "src_port": 443,
+    "dst_port": 49871,
+    "packet_size": 618,
+    "duration_ms": 435,
+    "protocol": "TCP"
+  },
+  {
+    "src_port": 443,
+    "dst_port": 24299,
+    "packet_size": 193,
+    "duration_ms": 81,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 22,
+    "dst_port": 31317,
+    "packet_size": 1219,
+    "duration_ms": 474,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 80,
+    "dst_port": 38445,
+    "packet_size": 947,
+    "duration_ms": 97,
+    "protocol": "TCP"
+  },
+  {
+    "src_port": 9999,
+    "dst_port": 650,
+    "packet_size": 5000,
+    "duration_ms": 3293,
+    "protocol": "TCP"
+  },
+  {
+    "src_port": 1337,
+    "dst_port": 686,
+    "packet_size": 5000,
+    "duration_ms": 4002,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 443,
+    "dst_port": 13820,
+    "packet_size": 1025,
+    "duration_ms": 61,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 6666,
+    "dst_port": 707,
+    "packet_size": 0,
+    "duration_ms": 1464,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 8080,
+    "dst_port": 62077,
+    "packet_size": 1499,
+    "duration_ms": 261,
+    "protocol": "TCP"
+  },
+  {
+    "src_port": 443,
+    "dst_port": 34438,
+    "packet_size": 562,
+    "duration_ms": 316,
+    "protocol": "TCP"
+  },
+  {
+    "src_port": 8080,
+    "dst_port": 10637,
+    "packet_size": 1429,
+    "duration_ms": 340,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 22,
+    "dst_port": 25177,
+    "packet_size": 295,
+    "duration_ms": 398,
+    "protocol": "TCP"
+  },
+  {
+    "src_port": 22,
+    "dst_port": 35351,
+    "packet_size": 973,
+    "duration_ms": 153,
+    "protocol": "TCP"
+  },
+  {
+    "src_port": 443,
+    "dst_port": 7557,
+    "packet_size": 739,
+    "duration_ms": 295,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 9999,
+    "dst_port": 1019,
+    "packet_size": 0,
+    "duration_ms": 4642,
+    "protocol": "TCP"
+  },
+  {
+    "src_port": 8080,
+    "dst_port": 8008,
+    "packet_size": 389,
+    "duration_ms": 134,
+    "protocol": "TCP"
+  },
+  {
+    "src_port": 80,
+    "dst_port": 48735,
+    "packet_size": 189,
+    "duration_ms": 385,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 443,
+    "dst_port": 27321,
+    "packet_size": 1481,
+    "duration_ms": 281,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 443,
+    "dst_port": 13893,
+    "packet_size": 1292,
+    "duration_ms": 88,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 80,
+    "dst_port": 26994,
+    "packet_size": 398,
+    "duration_ms": 376,
+    "protocol": "TCP"
+  },
+  {
+    "src_port": 443,
+    "dst_port": 56629,
+    "packet_size": 588,
+    "duration_ms": 430,
+    "protocol": "TCP"
+  },
+  {
+    "src_port": 80,
+    "dst_port": 37167,
+    "packet_size": 986,
+    "duration_ms": 148,
+    "protocol": "TCP"
+  },
+  {
+    "src_port": 22,
+    "dst_port": 13111,
+    "packet_size": 512,
+    "duration_ms": 88,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 22,
+    "dst_port": 48932,
+    "packet_size": 880,
+    "duration_ms": 355,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 8080,
+    "dst_port": 53719,
+    "packet_size": 699,
+    "duration_ms": 135,
+    "protocol": "TCP"
+  },
+  {
+    "src_port": 443,
+    "dst_port": 63460,
+    "packet_size": 197,
+    "duration_ms": 494,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 6666,
+    "dst_port": 441,
+    "packet_size": 0,
+    "duration_ms": 3253,
+    "protocol": "TCP"
+  },
+  {
+    "src_port": 443,
+    "dst_port": 13210,
+    "packet_size": 1319,
+    "duration_ms": 319,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 443,
+    "dst_port": 44875,
+    "packet_size": 1485,
+    "duration_ms": 314,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 443,
+    "dst_port": 31722,
+    "packet_size": 261,
+    "duration_ms": 360,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 80,
+    "dst_port": 19680,
+    "packet_size": 754,
+    "duration_ms": 185,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 80,
+    "dst_port": 14736,
+    "packet_size": 774,
+    "duration_ms": 229,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 9999,
+    "dst_port": 654,
+    "packet_size": 10,
+    "duration_ms": 4689,
+    "protocol": "TCP"
+  },
+  {
+    "src_port": 22,
+    "dst_port": 54718,
+    "packet_size": 895,
+    "duration_ms": 360,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 22,
+    "dst_port": 56925,
+    "packet_size": 654,
+    "duration_ms": 357,
+    "protocol": "TCP"
+  },
+  {
+    "src_port": 80,
+    "dst_port": 37896,
+    "packet_size": 503,
+    "duration_ms": 189,
+    "protocol": "TCP"
+  },
+  {
+    "src_port": 22,
+    "dst_port": 54441,
+    "packet_size": 348,
+    "duration_ms": 217,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 443,
+    "dst_port": 30431,
+    "packet_size": 1231,
+    "duration_ms": 166,
+    "protocol": "TCP"
+  },
+  {
+    "src_port": 22,
+    "dst_port": 41164,
+    "packet_size": 485,
+    "duration_ms": 310,
+    "protocol": "TCP"
+  },
+  {
+    "src_port": 8080,
+    "dst_port": 13808,
+    "packet_size": 797,
+    "duration_ms": 437,
+    "protocol": "TCP"
+  },
+  {
+    "src_port": 443,
+    "dst_port": 25816,
+    "packet_size": 200,
+    "duration_ms": 229,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 22,
+    "dst_port": 34750,
+    "packet_size": 1389,
+    "duration_ms": 313,
+    "protocol": "TCP"
+  },
+  {
+    "src_port": 8080,
+    "dst_port": 18779,
+    "packet_size": 1323,
+    "duration_ms": 164,
+    "protocol": "TCP"
+  },
+  {
+    "src_port": 8080,
+    "dst_port": 18414,
+    "packet_size": 899,
+    "duration_ms": 74,
+    "protocol": "TCP"
+  },
+  {
+    "src_port": 80,
+    "dst_port": 42849,
+    "packet_size": 110,
+    "duration_ms": 409,
+    "protocol": "TCP"
+  },
+  {
+    "src_port": 22,
+    "dst_port": 64000,
+    "packet_size": 188,
+    "duration_ms": 386,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 6666,
+    "dst_port": 589,
+    "packet_size": 10,
+    "duration_ms": 2542,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 443,
+    "dst_port": 24493,
+    "packet_size": 626,
+    "duration_ms": 245,
+    "protocol": "TCP"
+  },
+  {
+    "src_port": 8080,
+    "dst_port": 7855,
+    "packet_size": 920,
+    "duration_ms": 250,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 8080,
+    "dst_port": 62740,
+    "packet_size": 658,
+    "duration_ms": 439,
+    "protocol": "TCP"
+  },
+  {
+    "src_port": 443,
+    "dst_port": 31363,
+    "packet_size": 1489,
+    "duration_ms": 130,
+    "protocol": "TCP"
+  },
+  {
+    "src_port": 443,
+    "dst_port": 58151,
+    "packet_size": 333,
+    "duration_ms": 462,
+    "protocol": "TCP"
+  },
+  {
+    "src_port": 22,
+    "dst_port": 27841,
+    "packet_size": 611,
+    "duration_ms": 461,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 1337,
+    "dst_port": 658,
+    "packet_size": 0,
+    "duration_ms": 2229,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 80,
+    "dst_port": 39143,
+    "packet_size": 1139,
+    "duration_ms": 227,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 9999,
+    "dst_port": 907,
+    "packet_size": 10,
+    "duration_ms": 2150,
+    "protocol": "TCP"
+  },
+  {
+    "src_port": 443,
+    "dst_port": 49129,
+    "packet_size": 1052,
+    "duration_ms": 267,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 443,
+    "dst_port": 27325,
+    "packet_size": 228,
+    "duration_ms": 216,
+    "protocol": "TCP"
+  },
+  {
+    "src_port": 8080,
+    "dst_port": 42010,
+    "packet_size": 1350,
+    "duration_ms": 394,
+    "protocol": "TCP"
+  },
+  {
+    "src_port": 8080,
+    "dst_port": 58041,
+    "packet_size": 326,
+    "duration_ms": 357,
+    "protocol": "TCP"
+  },
+  {
+    "src_port": 80,
+    "dst_port": 51405,
+    "packet_size": 1386,
+    "duration_ms": 253,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 8080,
+    "dst_port": 6998,
+    "packet_size": 1069,
+    "duration_ms": 463,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 22,
+    "dst_port": 29259,
+    "packet_size": 143,
+    "duration_ms": 208,
+    "protocol": "TCP"
+  },
+  {
+    "src_port": 80,
+    "dst_port": 41050,
+    "packet_size": 1062,
+    "duration_ms": 328,
+    "protocol": "TCP"
+  },
+  {
+    "src_port": 443,
+    "dst_port": 21397,
+    "packet_size": 1355,
+    "duration_ms": 80,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 443,
+    "dst_port": 41625,
+    "packet_size": 1294,
+    "duration_ms": 90,
+    "protocol": "TCP"
+  },
+  {
+    "src_port": 443,
+    "dst_port": 38732,
+    "packet_size": 177,
+    "duration_ms": 388,
+    "protocol": "TCP"
+  },
+  {
+    "src_port": 8080,
+    "dst_port": 63657,
+    "packet_size": 1115,
+    "duration_ms": 448,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 8080,
+    "dst_port": 43210,
+    "packet_size": 830,
+    "duration_ms": 145,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 443,
+    "dst_port": 4920,
+    "packet_size": 613,
+    "duration_ms": 240,
+    "protocol": "TCP"
+  },
+  {
+    "src_port": 8080,
+    "dst_port": 17088,
+    "packet_size": 235,
+    "duration_ms": 94,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 8080,
+    "dst_port": 14802,
+    "packet_size": 1109,
+    "duration_ms": 310,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 80,
+    "dst_port": 62037,
+    "packet_size": 103,
+    "duration_ms": 158,
+    "protocol": "TCP"
+  },
+  {
+    "src_port": 22,
+    "dst_port": 40369,
+    "packet_size": 1378,
+    "duration_ms": 293,
+    "protocol": "TCP"
+  },
+  {
+    "src_port": 8080,
+    "dst_port": 35318,
+    "packet_size": 1177,
+    "duration_ms": 163,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 8080,
+    "dst_port": 59762,
+    "packet_size": 1195,
+    "duration_ms": 468,
+    "protocol": "TCP"
+  },
+  {
+    "src_port": 443,
+    "dst_port": 1875,
+    "packet_size": 588,
+    "duration_ms": 173,
+    "protocol": "TCP"
+  },
+  {
+    "src_port": 80,
+    "dst_port": 11250,
+    "packet_size": 1196,
+    "duration_ms": 53,
+    "protocol": "TCP"
+  },
+  {
+    "src_port": 22,
+    "dst_port": 4067,
+    "packet_size": 337,
+    "duration_ms": 173,
+    "protocol": "TCP"
+  },
+  {
+    "src_port": 8080,
+    "dst_port": 31920,
+    "packet_size": 1462,
+    "duration_ms": 343,
+    "protocol": "TCP"
+  },
+  {
+    "src_port": 80,
+    "dst_port": 8594,
+    "packet_size": 568,
+    "duration_ms": 305,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 80,
+    "dst_port": 37542,
+    "packet_size": 502,
+    "duration_ms": 492,
+    "protocol": "TCP"
+  },
+  {
+    "src_port": 80,
+    "dst_port": 61056,
+    "packet_size": 651,
+    "duration_ms": 270,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 443,
+    "dst_port": 9875,
+    "packet_size": 1256,
+    "duration_ms": 236,
+    "protocol": "TCP"
+  },
+  {
+    "src_port": 1337,
+    "dst_port": 814,
+    "packet_size": 0,
+    "duration_ms": 2316,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 22,
+    "dst_port": 27589,
+    "packet_size": 1471,
+    "duration_ms": 175,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 443,
+    "dst_port": 36279,
+    "packet_size": 1274,
+    "duration_ms": 474,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 8080,
+    "dst_port": 41987,
+    "packet_size": 630,
+    "duration_ms": 383,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 443,
+    "dst_port": 56186,
+    "packet_size": 839,
+    "duration_ms": 381,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 80,
+    "dst_port": 19714,
+    "packet_size": 326,
+    "duration_ms": 58,
+    "protocol": "TCP"
+  },
+  {
+    "src_port": 22,
+    "dst_port": 5678,
+    "packet_size": 601,
+    "duration_ms": 76,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 22,
+    "dst_port": 63066,
+    "packet_size": 914,
+    "duration_ms": 158,
+    "protocol": "TCP"
+  },
+  {
+    "src_port": 6666,
+    "dst_port": 467,
+    "packet_size": 10,
+    "duration_ms": 1559,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 8080,
+    "dst_port": 64832,
+    "packet_size": 1331,
+    "duration_ms": 237,
+    "protocol": "TCP"
+  },
+  {
+    "src_port": 443,
+    "dst_port": 26974,
+    "packet_size": 758,
+    "duration_ms": 87,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 443,
+    "dst_port": 5346,
+    "packet_size": 576,
+    "duration_ms": 458,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 22,
+    "dst_port": 43596,
+    "packet_size": 1152,
+    "duration_ms": 346,
+    "protocol": "TCP"
+  },
+  {
+    "src_port": 22,
+    "dst_port": 55261,
+    "packet_size": 909,
+    "duration_ms": 105,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 80,
+    "dst_port": 63934,
+    "packet_size": 446,
+    "duration_ms": 121,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 8080,
+    "dst_port": 46085,
+    "packet_size": 845,
+    "duration_ms": 325,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 22,
+    "dst_port": 13172,
+    "packet_size": 683,
+    "duration_ms": 430,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 6666,
+    "dst_port": 721,
+    "packet_size": 10,
+    "duration_ms": 3241,
+    "protocol": "TCP"
+  },
+  {
+    "src_port": 443,
+    "dst_port": 5393,
+    "packet_size": 889,
+    "duration_ms": 342,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 8080,
+    "dst_port": 28857,
+    "packet_size": 1234,
+    "duration_ms": 108,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 22,
+    "dst_port": 38097,
+    "packet_size": 1087,
+    "duration_ms": 399,
+    "protocol": "TCP"
+  },
+  {
+    "src_port": 8080,
+    "dst_port": 32009,
+    "packet_size": 520,
+    "duration_ms": 427,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 443,
+    "dst_port": 20712,
+    "packet_size": 1418,
+    "duration_ms": 153,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 80,
+    "dst_port": 16239,
+    "packet_size": 1310,
+    "duration_ms": 171,
+    "protocol": "TCP"
+  },
+  {
+    "src_port": 443,
+    "dst_port": 4646,
+    "packet_size": 288,
+    "duration_ms": 186,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 8080,
+    "dst_port": 31119,
+    "packet_size": 511,
+    "duration_ms": 500,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 8080,
+    "dst_port": 46152,
+    "packet_size": 123,
+    "duration_ms": 485,
+    "protocol": "TCP"
+  },
+  {
+    "src_port": 9999,
+    "dst_port": 717,
+    "packet_size": 5000,
+    "duration_ms": 3170,
+    "protocol": "TCP"
+  },
+  {
+    "src_port": 443,
+    "dst_port": 8406,
+    "packet_size": 844,
+    "duration_ms": 265,
+    "protocol": "TCP"
+  },
+  {
+    "src_port": 80,
+    "dst_port": 52699,
+    "packet_size": 147,
+    "duration_ms": 223,
+    "protocol": "TCP"
+  },
+  {
+    "src_port": 443,
+    "dst_port": 21161,
+    "packet_size": 1013,
+    "duration_ms": 193,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 8080,
+    "dst_port": 54113,
+    "packet_size": 1199,
+    "duration_ms": 308,
+    "protocol": "TCP"
+  },
+  {
+    "src_port": 22,
+    "dst_port": 33103,
+    "packet_size": 171,
+    "duration_ms": 142,
+    "protocol": "TCP"
+  },
+  {
+    "src_port": 443,
+    "dst_port": 1029,
+    "packet_size": 473,
+    "duration_ms": 233,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 80,
+    "dst_port": 44337,
+    "packet_size": 211,
+    "duration_ms": 88,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 22,
+    "dst_port": 56376,
+    "packet_size": 214,
+    "duration_ms": 314,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 22,
+    "dst_port": 29670,
+    "packet_size": 1472,
+    "duration_ms": 424,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 80,
+    "dst_port": 62128,
+    "packet_size": 279,
+    "duration_ms": 224,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 80,
+    "dst_port": 8711,
+    "packet_size": 1021,
+    "duration_ms": 225,
+    "protocol": "TCP"
+  },
+  {
+    "src_port": 22,
+    "dst_port": 6112,
+    "packet_size": 1418,
+    "duration_ms": 478,
+    "protocol": "TCP"
+  },
+  {
+    "src_port": 443,
+    "dst_port": 60298,
+    "packet_size": 485,
+    "duration_ms": 109,
+    "protocol": "TCP"
+  },
+  {
+    "src_port": 8080,
+    "dst_port": 38125,
+    "packet_size": 1001,
+    "duration_ms": 307,
+    "protocol": "TCP"
+  },
+  {
+    "src_port": 80,
+    "dst_port": 6044,
+    "packet_size": 979,
+    "duration_ms": 79,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 6666,
+    "dst_port": 641,
+    "packet_size": 10,
+    "duration_ms": 4214,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 80,
+    "dst_port": 11285,
+    "packet_size": 305,
+    "duration_ms": 374,
+    "protocol": "TCP"
+  },
+  {
+    "src_port": 80,
+    "dst_port": 51230,
+    "packet_size": 1180,
+    "duration_ms": 159,
+    "protocol": "TCP"
+  },
+  {
+    "src_port": 8080,
+    "dst_port": 30494,
+    "packet_size": 615,
+    "duration_ms": 168,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 443,
+    "dst_port": 63397,
+    "packet_size": 226,
+    "duration_ms": 174,
+    "protocol": "TCP"
+  },
+  {
+    "src_port": 6666,
+    "dst_port": 93,
+    "packet_size": 5000,
+    "duration_ms": 1533,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 443,
+    "dst_port": 43447,
+    "packet_size": 828,
+    "duration_ms": 427,
+    "protocol": "UDP"
+  },
+  {
+    "src_port": 443,
+    "dst_port": 29762,
+    "packet_size": 1473,
+    "duration_ms": 52,
+    "protocol": "UDP"
+  }
+]

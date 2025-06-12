@@ -1,7 +1,5 @@
 import socket
 import json
-
-import httpx
 import pandas as pd
 import joblib
 
