@@ -9,7 +9,7 @@ HOST = 'localhost'
 PORT = 9999
 
 model = joblib.load("anomaly_model.joblib")
-TOGETHER_API_KEY = "your_api_key_here"
+TOGETHER_API_KEY = "d15e03181b8546f80a6898a688ee25efd5f00e93d9f6c39827adb67527674476"
 TOGETHER_MODEL = "togethercomputer/llama-2-70b-chat"
 
 
